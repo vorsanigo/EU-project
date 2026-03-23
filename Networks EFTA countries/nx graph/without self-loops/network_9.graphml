@@ -1,0 +1,1490 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="es" />
+    <node id="it" />
+    <node id="de" />
+    <node id="fr" />
+    <node id="nl" />
+    <node id="be" />
+    <node id="gr" />
+    <node id="gb" />
+    <node id="at" />
+    <node id="pt" />
+    <node id="ch" />
+    <node id="se" />
+    <node id="fi" />
+    <node id="dk" />
+    <node id="pl" />
+    <node id="no" />
+    <node id="ie" />
+    <node id="cz" />
+    <node id="si" />
+    <node id="ro" />
+    <node id="cy" />
+    <node id="hu" />
+    <node id="bg" />
+    <node id="ee" />
+    <node id="hr" />
+    <node id="lt" />
+    <node id="sk" />
+    <node id="lu" />
+    <node id="lv" />
+    <node id="mt" />
+    <node id="is" />
+    <node id="li" />
+    <edge source="es" target="it">
+      <data key="d0">22497</data>
+    </edge>
+    <edge source="es" target="de">
+      <data key="d0">21310</data>
+    </edge>
+    <edge source="es" target="fr">
+      <data key="d0">18571</data>
+    </edge>
+    <edge source="es" target="be">
+      <data key="d0">11810</data>
+    </edge>
+    <edge source="es" target="gr">
+      <data key="d0">11650</data>
+    </edge>
+    <edge source="es" target="nl">
+      <data key="d0">11198</data>
+    </edge>
+    <edge source="es" target="gb">
+      <data key="d0">8534</data>
+    </edge>
+    <edge source="es" target="pt">
+      <data key="d0">6897</data>
+    </edge>
+    <edge source="es" target="at">
+      <data key="d0">6166</data>
+    </edge>
+    <edge source="es" target="se">
+      <data key="d0">5634</data>
+    </edge>
+    <edge source="es" target="ch">
+      <data key="d0">5119</data>
+    </edge>
+    <edge source="es" target="fi">
+      <data key="d0">5008</data>
+    </edge>
+    <edge source="es" target="pl">
+      <data key="d0">4474</data>
+    </edge>
+    <edge source="es" target="dk">
+      <data key="d0">4331</data>
+    </edge>
+    <edge source="es" target="no">
+      <data key="d0">4300</data>
+    </edge>
+    <edge source="es" target="ie">
+      <data key="d0">3567</data>
+    </edge>
+    <edge source="es" target="cz">
+      <data key="d0">2715</data>
+    </edge>
+    <edge source="es" target="si">
+      <data key="d0">2708</data>
+    </edge>
+    <edge source="es" target="ro">
+      <data key="d0">2614</data>
+    </edge>
+    <edge source="es" target="hu">
+      <data key="d0">1943</data>
+    </edge>
+    <edge source="es" target="cy">
+      <data key="d0">1900</data>
+    </edge>
+    <edge source="es" target="bg">
+      <data key="d0">1371</data>
+    </edge>
+    <edge source="es" target="ee">
+      <data key="d0">1367</data>
+    </edge>
+    <edge source="es" target="lt">
+      <data key="d0">1217</data>
+    </edge>
+    <edge source="es" target="hr">
+      <data key="d0">1189</data>
+    </edge>
+    <edge source="es" target="sk">
+      <data key="d0">1119</data>
+    </edge>
+    <edge source="es" target="lu">
+      <data key="d0">1086</data>
+    </edge>
+    <edge source="es" target="lv">
+      <data key="d0">871</data>
+    </edge>
+    <edge source="es" target="mt">
+      <data key="d0">366</data>
+    </edge>
+    <edge source="es" target="is">
+      <data key="d0">354</data>
+    </edge>
+    <edge source="es" target="li">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="it" target="de">
+      <data key="d0">18936</data>
+    </edge>
+    <edge source="it" target="fr">
+      <data key="d0">17363</data>
+    </edge>
+    <edge source="it" target="nl">
+      <data key="d0">10250</data>
+    </edge>
+    <edge source="it" target="be">
+      <data key="d0">10173</data>
+    </edge>
+    <edge source="it" target="gr">
+      <data key="d0">9741</data>
+    </edge>
+    <edge source="it" target="gb">
+      <data key="d0">7386</data>
+    </edge>
+    <edge source="it" target="at">
+      <data key="d0">5684</data>
+    </edge>
+    <edge source="it" target="pt">
+      <data key="d0">5268</data>
+    </edge>
+    <edge source="it" target="se">
+      <data key="d0">5050</data>
+    </edge>
+    <edge source="it" target="ch">
+      <data key="d0">4806</data>
+    </edge>
+    <edge source="it" target="fi">
+      <data key="d0">4314</data>
+    </edge>
+    <edge source="it" target="pl">
+      <data key="d0">3826</data>
+    </edge>
+    <edge source="it" target="dk">
+      <data key="d0">3671</data>
+    </edge>
+    <edge source="it" target="no">
+      <data key="d0">3381</data>
+    </edge>
+    <edge source="it" target="si">
+      <data key="d0">2810</data>
+    </edge>
+    <edge source="it" target="ie">
+      <data key="d0">2728</data>
+    </edge>
+    <edge source="it" target="cz">
+      <data key="d0">2708</data>
+    </edge>
+    <edge source="it" target="ro">
+      <data key="d0">2512</data>
+    </edge>
+    <edge source="it" target="cy">
+      <data key="d0">1677</data>
+    </edge>
+    <edge source="it" target="hu">
+      <data key="d0">1619</data>
+    </edge>
+    <edge source="it" target="hr">
+      <data key="d0">1336</data>
+    </edge>
+    <edge source="it" target="bg">
+      <data key="d0">1241</data>
+    </edge>
+    <edge source="it" target="ee">
+      <data key="d0">1215</data>
+    </edge>
+    <edge source="it" target="lt">
+      <data key="d0">1054</data>
+    </edge>
+    <edge source="it" target="sk">
+      <data key="d0">889</data>
+    </edge>
+    <edge source="it" target="lu">
+      <data key="d0">852</data>
+    </edge>
+    <edge source="it" target="lv">
+      <data key="d0">794</data>
+    </edge>
+    <edge source="it" target="mt">
+      <data key="d0">364</data>
+    </edge>
+    <edge source="it" target="is">
+      <data key="d0">325</data>
+    </edge>
+    <edge source="it" target="li">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="de" target="fr">
+      <data key="d0">21739</data>
+    </edge>
+    <edge source="de" target="nl">
+      <data key="d0">14421</data>
+    </edge>
+    <edge source="de" target="be">
+      <data key="d0">11098</data>
+    </edge>
+    <edge source="de" target="gb">
+      <data key="d0">9473</data>
+    </edge>
+    <edge source="de" target="at">
+      <data key="d0">8139</data>
+    </edge>
+    <edge source="de" target="gr">
+      <data key="d0">7961</data>
+    </edge>
+    <edge source="de" target="ch">
+      <data key="d0">6347</data>
+    </edge>
+    <edge source="de" target="se">
+      <data key="d0">6248</data>
+    </edge>
+    <edge source="de" target="fi">
+      <data key="d0">5555</data>
+    </edge>
+    <edge source="de" target="pt">
+      <data key="d0">5010</data>
+    </edge>
+    <edge source="de" target="dk">
+      <data key="d0">4577</data>
+    </edge>
+    <edge source="de" target="no">
+      <data key="d0">4208</data>
+    </edge>
+    <edge source="de" target="pl">
+      <data key="d0">3894</data>
+    </edge>
+    <edge source="de" target="cz">
+      <data key="d0">3436</data>
+    </edge>
+    <edge source="de" target="ie">
+      <data key="d0">2777</data>
+    </edge>
+    <edge source="de" target="si">
+      <data key="d0">2230</data>
+    </edge>
+    <edge source="de" target="ro">
+      <data key="d0">2062</data>
+    </edge>
+    <edge source="de" target="hu">
+      <data key="d0">1988</data>
+    </edge>
+    <edge source="de" target="cy">
+      <data key="d0">1434</data>
+    </edge>
+    <edge source="de" target="hr">
+      <data key="d0">1240</data>
+    </edge>
+    <edge source="de" target="ee">
+      <data key="d0">1123</data>
+    </edge>
+    <edge source="de" target="bg">
+      <data key="d0">1061</data>
+    </edge>
+    <edge source="de" target="sk">
+      <data key="d0">1054</data>
+    </edge>
+    <edge source="de" target="lt">
+      <data key="d0">1049</data>
+    </edge>
+    <edge source="de" target="lu">
+      <data key="d0">963</data>
+    </edge>
+    <edge source="de" target="lv">
+      <data key="d0">764</data>
+    </edge>
+    <edge source="de" target="mt">
+      <data key="d0">326</data>
+    </edge>
+    <edge source="de" target="is">
+      <data key="d0">246</data>
+    </edge>
+    <edge source="de" target="li">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="fr" target="nl">
+      <data key="d0">10655</data>
+    </edge>
+    <edge source="fr" target="be">
+      <data key="d0">10353</data>
+    </edge>
+    <edge source="fr" target="gb">
+      <data key="d0">7908</data>
+    </edge>
+    <edge source="fr" target="gr">
+      <data key="d0">6562</data>
+    </edge>
+    <edge source="fr" target="at">
+      <data key="d0">5437</data>
+    </edge>
+    <edge source="fr" target="ch">
+      <data key="d0">5033</data>
+    </edge>
+    <edge source="fr" target="se">
+      <data key="d0">4962</data>
+    </edge>
+    <edge source="fr" target="pt">
+      <data key="d0">4892</data>
+    </edge>
+    <edge source="fr" target="fi">
+      <data key="d0">4417</data>
+    </edge>
+    <edge source="fr" target="pl">
+      <data key="d0">3769</data>
+    </edge>
+    <edge source="fr" target="no">
+      <data key="d0">3671</data>
+    </edge>
+    <edge source="fr" target="dk">
+      <data key="d0">3562</data>
+    </edge>
+    <edge source="fr" target="cz">
+      <data key="d0">2923</data>
+    </edge>
+    <edge source="fr" target="ie">
+      <data key="d0">2444</data>
+    </edge>
+    <edge source="fr" target="ro">
+      <data key="d0">2004</data>
+    </edge>
+    <edge source="fr" target="si">
+      <data key="d0">1854</data>
+    </edge>
+    <edge source="fr" target="hu">
+      <data key="d0">1571</data>
+    </edge>
+    <edge source="fr" target="hr">
+      <data key="d0">1131</data>
+    </edge>
+    <edge source="fr" target="cy">
+      <data key="d0">1014</data>
+    </edge>
+    <edge source="fr" target="sk">
+      <data key="d0">949</data>
+    </edge>
+    <edge source="fr" target="bg">
+      <data key="d0">947</data>
+    </edge>
+    <edge source="fr" target="ee">
+      <data key="d0">898</data>
+    </edge>
+    <edge source="fr" target="lt">
+      <data key="d0">855</data>
+    </edge>
+    <edge source="fr" target="lv">
+      <data key="d0">784</data>
+    </edge>
+    <edge source="fr" target="lu">
+      <data key="d0">713</data>
+    </edge>
+    <edge source="fr" target="is">
+      <data key="d0">306</data>
+    </edge>
+    <edge source="fr" target="mt">
+      <data key="d0">293</data>
+    </edge>
+    <edge source="fr" target="li">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="nl" target="be">
+      <data key="d0">7678</data>
+    </edge>
+    <edge source="nl" target="gb">
+      <data key="d0">5827</data>
+    </edge>
+    <edge source="nl" target="gr">
+      <data key="d0">4220</data>
+    </edge>
+    <edge source="nl" target="at">
+      <data key="d0">3982</data>
+    </edge>
+    <edge source="nl" target="ch">
+      <data key="d0">3664</data>
+    </edge>
+    <edge source="nl" target="se">
+      <data key="d0">3440</data>
+    </edge>
+    <edge source="nl" target="fi">
+      <data key="d0">3227</data>
+    </edge>
+    <edge source="nl" target="pt">
+      <data key="d0">2900</data>
+    </edge>
+    <edge source="nl" target="dk">
+      <data key="d0">2854</data>
+    </edge>
+    <edge source="nl" target="no">
+      <data key="d0">2487</data>
+    </edge>
+    <edge source="nl" target="pl">
+      <data key="d0">2173</data>
+    </edge>
+    <edge source="nl" target="ie">
+      <data key="d0">1970</data>
+    </edge>
+    <edge source="nl" target="cz">
+      <data key="d0">1712</data>
+    </edge>
+    <edge source="nl" target="hu">
+      <data key="d0">1140</data>
+    </edge>
+    <edge source="nl" target="ro">
+      <data key="d0">1129</data>
+    </edge>
+    <edge source="nl" target="si">
+      <data key="d0">1123</data>
+    </edge>
+    <edge source="nl" target="cy">
+      <data key="d0">728</data>
+    </edge>
+    <edge source="nl" target="ee">
+      <data key="d0">719</data>
+    </edge>
+    <edge source="nl" target="sk">
+      <data key="d0">609</data>
+    </edge>
+    <edge source="nl" target="hr">
+      <data key="d0">576</data>
+    </edge>
+    <edge source="nl" target="lt">
+      <data key="d0">570</data>
+    </edge>
+    <edge source="nl" target="bg">
+      <data key="d0">569</data>
+    </edge>
+    <edge source="nl" target="lv">
+      <data key="d0">522</data>
+    </edge>
+    <edge source="nl" target="lu">
+      <data key="d0">493</data>
+    </edge>
+    <edge source="nl" target="mt">
+      <data key="d0">205</data>
+    </edge>
+    <edge source="nl" target="is">
+      <data key="d0">174</data>
+    </edge>
+    <edge source="be" target="gr">
+      <data key="d0">5008</data>
+    </edge>
+    <edge source="be" target="gb">
+      <data key="d0">4678</data>
+    </edge>
+    <edge source="be" target="at">
+      <data key="d0">3141</data>
+    </edge>
+    <edge source="be" target="pt">
+      <data key="d0">3091</data>
+    </edge>
+    <edge source="be" target="fi">
+      <data key="d0">2983</data>
+    </edge>
+    <edge source="be" target="se">
+      <data key="d0">2965</data>
+    </edge>
+    <edge source="be" target="ch">
+      <data key="d0">2745</data>
+    </edge>
+    <edge source="be" target="dk">
+      <data key="d0">2624</data>
+    </edge>
+    <edge source="be" target="no">
+      <data key="d0">2354</data>
+    </edge>
+    <edge source="be" target="pl">
+      <data key="d0">1948</data>
+    </edge>
+    <edge source="be" target="ie">
+      <data key="d0">1868</data>
+    </edge>
+    <edge source="be" target="cz">
+      <data key="d0">1633</data>
+    </edge>
+    <edge source="be" target="si">
+      <data key="d0">1393</data>
+    </edge>
+    <edge source="be" target="ro">
+      <data key="d0">1345</data>
+    </edge>
+    <edge source="be" target="hu">
+      <data key="d0">1111</data>
+    </edge>
+    <edge source="be" target="ee">
+      <data key="d0">892</data>
+    </edge>
+    <edge source="be" target="cy">
+      <data key="d0">891</data>
+    </edge>
+    <edge source="be" target="lt">
+      <data key="d0">791</data>
+    </edge>
+    <edge source="be" target="bg">
+      <data key="d0">752</data>
+    </edge>
+    <edge source="be" target="hr">
+      <data key="d0">726</data>
+    </edge>
+    <edge source="be" target="lu">
+      <data key="d0">606</data>
+    </edge>
+    <edge source="be" target="sk">
+      <data key="d0">602</data>
+    </edge>
+    <edge source="be" target="lv">
+      <data key="d0">538</data>
+    </edge>
+    <edge source="be" target="mt">
+      <data key="d0">203</data>
+    </edge>
+    <edge source="be" target="is">
+      <data key="d0">189</data>
+    </edge>
+    <edge source="be" target="li">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gr" target="gb">
+      <data key="d0">3573</data>
+    </edge>
+    <edge source="gr" target="pt">
+      <data key="d0">3067</data>
+    </edge>
+    <edge source="gr" target="cy">
+      <data key="d0">2603</data>
+    </edge>
+    <edge source="gr" target="ch">
+      <data key="d0">2460</data>
+    </edge>
+    <edge source="gr" target="at">
+      <data key="d0">2369</data>
+    </edge>
+    <edge source="gr" target="fi">
+      <data key="d0">2136</data>
+    </edge>
+    <edge source="gr" target="se">
+      <data key="d0">1952</data>
+    </edge>
+    <edge source="gr" target="no">
+      <data key="d0">1912</data>
+    </edge>
+    <edge source="gr" target="pl">
+      <data key="d0">1707</data>
+    </edge>
+    <edge source="gr" target="dk">
+      <data key="d0">1695</data>
+    </edge>
+    <edge source="gr" target="ro">
+      <data key="d0">1669</data>
+    </edge>
+    <edge source="gr" target="ie">
+      <data key="d0">1639</data>
+    </edge>
+    <edge source="gr" target="si">
+      <data key="d0">1552</data>
+    </edge>
+    <edge source="gr" target="cz">
+      <data key="d0">1088</data>
+    </edge>
+    <edge source="gr" target="bg">
+      <data key="d0">958</data>
+    </edge>
+    <edge source="gr" target="lu">
+      <data key="d0">875</data>
+    </edge>
+    <edge source="gr" target="hu">
+      <data key="d0">727</data>
+    </edge>
+    <edge source="gr" target="lt">
+      <data key="d0">678</data>
+    </edge>
+    <edge source="gr" target="hr">
+      <data key="d0">673</data>
+    </edge>
+    <edge source="gr" target="ee">
+      <data key="d0">583</data>
+    </edge>
+    <edge source="gr" target="lv">
+      <data key="d0">458</data>
+    </edge>
+    <edge source="gr" target="sk">
+      <data key="d0">434</data>
+    </edge>
+    <edge source="gr" target="mt">
+      <data key="d0">334</data>
+    </edge>
+    <edge source="gr" target="is">
+      <data key="d0">113</data>
+    </edge>
+    <edge source="gb" target="ch">
+      <data key="d0">2665</data>
+    </edge>
+    <edge source="gb" target="se">
+      <data key="d0">2439</data>
+    </edge>
+    <edge source="gb" target="pt">
+      <data key="d0">2273</data>
+    </edge>
+    <edge source="gb" target="at">
+      <data key="d0">2261</data>
+    </edge>
+    <edge source="gb" target="fi">
+      <data key="d0">2095</data>
+    </edge>
+    <edge source="gb" target="no">
+      <data key="d0">2050</data>
+    </edge>
+    <edge source="gb" target="dk">
+      <data key="d0">2047</data>
+    </edge>
+    <edge source="gb" target="ie">
+      <data key="d0">1693</data>
+    </edge>
+    <edge source="gb" target="pl">
+      <data key="d0">1521</data>
+    </edge>
+    <edge source="gb" target="cz">
+      <data key="d0">1454</data>
+    </edge>
+    <edge source="gb" target="si">
+      <data key="d0">983</data>
+    </edge>
+    <edge source="gb" target="ro">
+      <data key="d0">844</data>
+    </edge>
+    <edge source="gb" target="hu">
+      <data key="d0">776</data>
+    </edge>
+    <edge source="gb" target="cy">
+      <data key="d0">740</data>
+    </edge>
+    <edge source="gb" target="ee">
+      <data key="d0">499</data>
+    </edge>
+    <edge source="gb" target="bg">
+      <data key="d0">475</data>
+    </edge>
+    <edge source="gb" target="lt">
+      <data key="d0">433</data>
+    </edge>
+    <edge source="gb" target="sk">
+      <data key="d0">395</data>
+    </edge>
+    <edge source="gb" target="hr">
+      <data key="d0">391</data>
+    </edge>
+    <edge source="gb" target="lu">
+      <data key="d0">369</data>
+    </edge>
+    <edge source="gb" target="lv">
+      <data key="d0">280</data>
+    </edge>
+    <edge source="gb" target="is">
+      <data key="d0">219</data>
+    </edge>
+    <edge source="gb" target="mt">
+      <data key="d0">121</data>
+    </edge>
+    <edge source="gb" target="li">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="at" target="se">
+      <data key="d0">2039</data>
+    </edge>
+    <edge source="at" target="fi">
+      <data key="d0">1752</data>
+    </edge>
+    <edge source="at" target="ch">
+      <data key="d0">1627</data>
+    </edge>
+    <edge source="at" target="pl">
+      <data key="d0">1443</data>
+    </edge>
+    <edge source="at" target="pt">
+      <data key="d0">1426</data>
+    </edge>
+    <edge source="at" target="dk">
+      <data key="d0">1322</data>
+    </edge>
+    <edge source="at" target="cz">
+      <data key="d0">1225</data>
+    </edge>
+    <edge source="at" target="no">
+      <data key="d0">1130</data>
+    </edge>
+    <edge source="at" target="ro">
+      <data key="d0">1081</data>
+    </edge>
+    <edge source="at" target="si">
+      <data key="d0">874</data>
+    </edge>
+    <edge source="at" target="hu">
+      <data key="d0">820</data>
+    </edge>
+    <edge source="at" target="ie">
+      <data key="d0">791</data>
+    </edge>
+    <edge source="at" target="hr">
+      <data key="d0">583</data>
+    </edge>
+    <edge source="at" target="sk">
+      <data key="d0">510</data>
+    </edge>
+    <edge source="at" target="bg">
+      <data key="d0">452</data>
+    </edge>
+    <edge source="at" target="cy">
+      <data key="d0">419</data>
+    </edge>
+    <edge source="at" target="ee">
+      <data key="d0">396</data>
+    </edge>
+    <edge source="at" target="lv">
+      <data key="d0">393</data>
+    </edge>
+    <edge source="at" target="lt">
+      <data key="d0">380</data>
+    </edge>
+    <edge source="at" target="lu">
+      <data key="d0">288</data>
+    </edge>
+    <edge source="at" target="mt">
+      <data key="d0">105</data>
+    </edge>
+    <edge source="at" target="is">
+      <data key="d0">103</data>
+    </edge>
+    <edge source="pt" target="fi">
+      <data key="d0">1605</data>
+    </edge>
+    <edge source="pt" target="dk">
+      <data key="d0">1472</data>
+    </edge>
+    <edge source="pt" target="no">
+      <data key="d0">1463</data>
+    </edge>
+    <edge source="pt" target="se">
+      <data key="d0">1388</data>
+    </edge>
+    <edge source="pt" target="ch">
+      <data key="d0">1233</data>
+    </edge>
+    <edge source="pt" target="pl">
+      <data key="d0">1157</data>
+    </edge>
+    <edge source="pt" target="ie">
+      <data key="d0">1102</data>
+    </edge>
+    <edge source="pt" target="ro">
+      <data key="d0">832</data>
+    </edge>
+    <edge source="pt" target="cz">
+      <data key="d0">790</data>
+    </edge>
+    <edge source="pt" target="si">
+      <data key="d0">772</data>
+    </edge>
+    <edge source="pt" target="cy">
+      <data key="d0">576</data>
+    </edge>
+    <edge source="pt" target="hu">
+      <data key="d0">508</data>
+    </edge>
+    <edge source="pt" target="hr">
+      <data key="d0">487</data>
+    </edge>
+    <edge source="pt" target="bg">
+      <data key="d0">436</data>
+    </edge>
+    <edge source="pt" target="ee">
+      <data key="d0">398</data>
+    </edge>
+    <edge source="pt" target="lu">
+      <data key="d0">359</data>
+    </edge>
+    <edge source="pt" target="sk">
+      <data key="d0">338</data>
+    </edge>
+    <edge source="pt" target="lt">
+      <data key="d0">336</data>
+    </edge>
+    <edge source="pt" target="lv">
+      <data key="d0">304</data>
+    </edge>
+    <edge source="pt" target="is">
+      <data key="d0">141</data>
+    </edge>
+    <edge source="pt" target="mt">
+      <data key="d0">110</data>
+    </edge>
+    <edge source="pt" target="li">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="ch" target="se">
+      <data key="d0">1479</data>
+    </edge>
+    <edge source="ch" target="fi">
+      <data key="d0">1375</data>
+    </edge>
+    <edge source="ch" target="dk">
+      <data key="d0">1140</data>
+    </edge>
+    <edge source="ch" target="no">
+      <data key="d0">1055</data>
+    </edge>
+    <edge source="ch" target="pl">
+      <data key="d0">840</data>
+    </edge>
+    <edge source="ch" target="cz">
+      <data key="d0">805</data>
+    </edge>
+    <edge source="ch" target="ie">
+      <data key="d0">802</data>
+    </edge>
+    <edge source="ch" target="si">
+      <data key="d0">591</data>
+    </edge>
+    <edge source="ch" target="ro">
+      <data key="d0">512</data>
+    </edge>
+    <edge source="ch" target="cy">
+      <data key="d0">474</data>
+    </edge>
+    <edge source="ch" target="hu">
+      <data key="d0">423</data>
+    </edge>
+    <edge source="ch" target="ee">
+      <data key="d0">309</data>
+    </edge>
+    <edge source="ch" target="lt">
+      <data key="d0">306</data>
+    </edge>
+    <edge source="ch" target="bg">
+      <data key="d0">289</data>
+    </edge>
+    <edge source="ch" target="lu">
+      <data key="d0">276</data>
+    </edge>
+    <edge source="ch" target="hr">
+      <data key="d0">236</data>
+    </edge>
+    <edge source="ch" target="sk">
+      <data key="d0">209</data>
+    </edge>
+    <edge source="ch" target="lv">
+      <data key="d0">172</data>
+    </edge>
+    <edge source="ch" target="mt">
+      <data key="d0">77</data>
+    </edge>
+    <edge source="ch" target="is">
+      <data key="d0">70</data>
+    </edge>
+    <edge source="ch" target="li">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="se" target="fi">
+      <data key="d0">2159</data>
+    </edge>
+    <edge source="se" target="dk">
+      <data key="d0">1521</data>
+    </edge>
+    <edge source="se" target="no">
+      <data key="d0">1502</data>
+    </edge>
+    <edge source="se" target="pl">
+      <data key="d0">1191</data>
+    </edge>
+    <edge source="se" target="cz">
+      <data key="d0">939</data>
+    </edge>
+    <edge source="se" target="ie">
+      <data key="d0">761</data>
+    </edge>
+    <edge source="se" target="si">
+      <data key="d0">637</data>
+    </edge>
+    <edge source="se" target="hu">
+      <data key="d0">561</data>
+    </edge>
+    <edge source="se" target="ro">
+      <data key="d0">547</data>
+    </edge>
+    <edge source="se" target="ee">
+      <data key="d0">478</data>
+    </edge>
+    <edge source="se" target="lt">
+      <data key="d0">359</data>
+    </edge>
+    <edge source="se" target="hr">
+      <data key="d0">337</data>
+    </edge>
+    <edge source="se" target="bg">
+      <data key="d0">319</data>
+    </edge>
+    <edge source="se" target="lv">
+      <data key="d0">304</data>
+    </edge>
+    <edge source="se" target="cy">
+      <data key="d0">302</data>
+    </edge>
+    <edge source="se" target="sk">
+      <data key="d0">298</data>
+    </edge>
+    <edge source="se" target="lu">
+      <data key="d0">246</data>
+    </edge>
+    <edge source="se" target="is">
+      <data key="d0">129</data>
+    </edge>
+    <edge source="se" target="mt">
+      <data key="d0">80</data>
+    </edge>
+    <edge source="se" target="li">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="fi" target="no">
+      <data key="d0">1497</data>
+    </edge>
+    <edge source="fi" target="dk">
+      <data key="d0">1307</data>
+    </edge>
+    <edge source="fi" target="pl">
+      <data key="d0">1107</data>
+    </edge>
+    <edge source="fi" target="cz">
+      <data key="d0">928</data>
+    </edge>
+    <edge source="fi" target="ee">
+      <data key="d0">876</data>
+    </edge>
+    <edge source="fi" target="ie">
+      <data key="d0">792</data>
+    </edge>
+    <edge source="fi" target="si">
+      <data key="d0">687</data>
+    </edge>
+    <edge source="fi" target="ro">
+      <data key="d0">642</data>
+    </edge>
+    <edge source="fi" target="hu">
+      <data key="d0">509</data>
+    </edge>
+    <edge source="fi" target="cy">
+      <data key="d0">397</data>
+    </edge>
+    <edge source="fi" target="lt">
+      <data key="d0">395</data>
+    </edge>
+    <edge source="fi" target="lv">
+      <data key="d0">386</data>
+    </edge>
+    <edge source="fi" target="hr">
+      <data key="d0">362</data>
+    </edge>
+    <edge source="fi" target="bg">
+      <data key="d0">340</data>
+    </edge>
+    <edge source="fi" target="sk">
+      <data key="d0">318</data>
+    </edge>
+    <edge source="fi" target="lu">
+      <data key="d0">226</data>
+    </edge>
+    <edge source="fi" target="is">
+      <data key="d0">115</data>
+    </edge>
+    <edge source="fi" target="mt">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="fi" target="li">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="dk" target="no">
+      <data key="d0">1459</data>
+    </edge>
+    <edge source="dk" target="pl">
+      <data key="d0">820</data>
+    </edge>
+    <edge source="dk" target="ie">
+      <data key="d0">783</data>
+    </edge>
+    <edge source="dk" target="si">
+      <data key="d0">588</data>
+    </edge>
+    <edge source="dk" target="cz">
+      <data key="d0">585</data>
+    </edge>
+    <edge source="dk" target="ee">
+      <data key="d0">475</data>
+    </edge>
+    <edge source="dk" target="ro">
+      <data key="d0">458</data>
+    </edge>
+    <edge source="dk" target="hu">
+      <data key="d0">394</data>
+    </edge>
+    <edge source="dk" target="hr">
+      <data key="d0">322</data>
+    </edge>
+    <edge source="dk" target="cy">
+      <data key="d0">279</data>
+    </edge>
+    <edge source="dk" target="lt">
+      <data key="d0">277</data>
+    </edge>
+    <edge source="dk" target="lv">
+      <data key="d0">267</data>
+    </edge>
+    <edge source="dk" target="bg">
+      <data key="d0">263</data>
+    </edge>
+    <edge source="dk" target="sk">
+      <data key="d0">237</data>
+    </edge>
+    <edge source="dk" target="lu">
+      <data key="d0">212</data>
+    </edge>
+    <edge source="dk" target="is">
+      <data key="d0">159</data>
+    </edge>
+    <edge source="dk" target="mt">
+      <data key="d0">75</data>
+    </edge>
+    <edge source="pl" target="no">
+      <data key="d0">799</data>
+    </edge>
+    <edge source="pl" target="cz">
+      <data key="d0">786</data>
+    </edge>
+    <edge source="pl" target="ie">
+      <data key="d0">558</data>
+    </edge>
+    <edge source="pl" target="ro">
+      <data key="d0">541</data>
+    </edge>
+    <edge source="pl" target="hu">
+      <data key="d0">473</data>
+    </edge>
+    <edge source="pl" target="si">
+      <data key="d0">472</data>
+    </edge>
+    <edge source="pl" target="lv">
+      <data key="d0">310</data>
+    </edge>
+    <edge source="pl" target="sk">
+      <data key="d0">309</data>
+    </edge>
+    <edge source="pl" target="bg">
+      <data key="d0">302</data>
+    </edge>
+    <edge source="pl" target="lt">
+      <data key="d0">297</data>
+    </edge>
+    <edge source="pl" target="hr">
+      <data key="d0">292</data>
+    </edge>
+    <edge source="pl" target="ee">
+      <data key="d0">290</data>
+    </edge>
+    <edge source="pl" target="cy">
+      <data key="d0">287</data>
+    </edge>
+    <edge source="pl" target="lu">
+      <data key="d0">144</data>
+    </edge>
+    <edge source="pl" target="mt">
+      <data key="d0">104</data>
+    </edge>
+    <edge source="pl" target="is">
+      <data key="d0">72</data>
+    </edge>
+    <edge source="pl" target="li">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="no" target="ie">
+      <data key="d0">684</data>
+    </edge>
+    <edge source="no" target="cz">
+      <data key="d0">652</data>
+    </edge>
+    <edge source="no" target="si">
+      <data key="d0">446</data>
+    </edge>
+    <edge source="no" target="ee">
+      <data key="d0">397</data>
+    </edge>
+    <edge source="no" target="ro">
+      <data key="d0">397</data>
+    </edge>
+    <edge source="no" target="hu">
+      <data key="d0">328</data>
+    </edge>
+    <edge source="no" target="cy">
+      <data key="d0">297</data>
+    </edge>
+    <edge source="no" target="lt">
+      <data key="d0">252</data>
+    </edge>
+    <edge source="no" target="bg">
+      <data key="d0">244</data>
+    </edge>
+    <edge source="no" target="hr">
+      <data key="d0">227</data>
+    </edge>
+    <edge source="no" target="sk">
+      <data key="d0">205</data>
+    </edge>
+    <edge source="no" target="is">
+      <data key="d0">201</data>
+    </edge>
+    <edge source="no" target="lv">
+      <data key="d0">200</data>
+    </edge>
+    <edge source="no" target="lu">
+      <data key="d0">186</data>
+    </edge>
+    <edge source="no" target="mt">
+      <data key="d0">80</data>
+    </edge>
+    <edge source="no" target="li">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ie" target="ro">
+      <data key="d0">471</data>
+    </edge>
+    <edge source="ie" target="cz">
+      <data key="d0">437</data>
+    </edge>
+    <edge source="ie" target="cy">
+      <data key="d0">357</data>
+    </edge>
+    <edge source="ie" target="si">
+      <data key="d0">335</data>
+    </edge>
+    <edge source="ie" target="hu">
+      <data key="d0">323</data>
+    </edge>
+    <edge source="ie" target="ee">
+      <data key="d0">278</data>
+    </edge>
+    <edge source="ie" target="bg">
+      <data key="d0">268</data>
+    </edge>
+    <edge source="ie" target="lt">
+      <data key="d0">245</data>
+    </edge>
+    <edge source="ie" target="hr">
+      <data key="d0">228</data>
+    </edge>
+    <edge source="ie" target="sk">
+      <data key="d0">197</data>
+    </edge>
+    <edge source="ie" target="lu">
+      <data key="d0">184</data>
+    </edge>
+    <edge source="ie" target="lv">
+      <data key="d0">164</data>
+    </edge>
+    <edge source="ie" target="mt">
+      <data key="d0">105</data>
+    </edge>
+    <edge source="ie" target="is">
+      <data key="d0">80</data>
+    </edge>
+    <edge source="ie" target="li">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="cz" target="sk">
+      <data key="d0">502</data>
+    </edge>
+    <edge source="cz" target="ro">
+      <data key="d0">461</data>
+    </edge>
+    <edge source="cz" target="hu">
+      <data key="d0">458</data>
+    </edge>
+    <edge source="cz" target="si">
+      <data key="d0">429</data>
+    </edge>
+    <edge source="cz" target="lt">
+      <data key="d0">283</data>
+    </edge>
+    <edge source="cz" target="ee">
+      <data key="d0">276</data>
+    </edge>
+    <edge source="cz" target="hr">
+      <data key="d0">238</data>
+    </edge>
+    <edge source="cz" target="bg">
+      <data key="d0">233</data>
+    </edge>
+    <edge source="cz" target="lv">
+      <data key="d0">230</data>
+    </edge>
+    <edge source="cz" target="cy">
+      <data key="d0">196</data>
+    </edge>
+    <edge source="cz" target="lu">
+      <data key="d0">132</data>
+    </edge>
+    <edge source="cz" target="mt">
+      <data key="d0">85</data>
+    </edge>
+    <edge source="cz" target="is">
+      <data key="d0">54</data>
+    </edge>
+    <edge source="cz" target="li">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="si" target="hr">
+      <data key="d0">484</data>
+    </edge>
+    <edge source="si" target="ro">
+      <data key="d0">453</data>
+    </edge>
+    <edge source="si" target="hu">
+      <data key="d0">377</data>
+    </edge>
+    <edge source="si" target="cy">
+      <data key="d0">321</data>
+    </edge>
+    <edge source="si" target="lu">
+      <data key="d0">265</data>
+    </edge>
+    <edge source="si" target="ee">
+      <data key="d0">239</data>
+    </edge>
+    <edge source="si" target="bg">
+      <data key="d0">230</data>
+    </edge>
+    <edge source="si" target="lt">
+      <data key="d0">210</data>
+    </edge>
+    <edge source="si" target="sk">
+      <data key="d0">205</data>
+    </edge>
+    <edge source="si" target="lv">
+      <data key="d0">139</data>
+    </edge>
+    <edge source="si" target="mt">
+      <data key="d0">54</data>
+    </edge>
+    <edge source="si" target="is">
+      <data key="d0">52</data>
+    </edge>
+    <edge source="si" target="li">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ro" target="bg">
+      <data key="d0">640</data>
+    </edge>
+    <edge source="ro" target="hu">
+      <data key="d0">538</data>
+    </edge>
+    <edge source="ro" target="hr">
+      <data key="d0">534</data>
+    </edge>
+    <edge source="ro" target="sk">
+      <data key="d0">297</data>
+    </edge>
+    <edge source="ro" target="cy">
+      <data key="d0">292</data>
+    </edge>
+    <edge source="ro" target="ee">
+      <data key="d0">242</data>
+    </edge>
+    <edge source="ro" target="lt">
+      <data key="d0">230</data>
+    </edge>
+    <edge source="ro" target="lv">
+      <data key="d0">153</data>
+    </edge>
+    <edge source="ro" target="lu">
+      <data key="d0">119</data>
+    </edge>
+    <edge source="ro" target="mt">
+      <data key="d0">72</data>
+    </edge>
+    <edge source="ro" target="is">
+      <data key="d0">52</data>
+    </edge>
+    <edge source="cy" target="bg">
+      <data key="d0">295</data>
+    </edge>
+    <edge source="cy" target="lu">
+      <data key="d0">197</data>
+    </edge>
+    <edge source="cy" target="hr">
+      <data key="d0">186</data>
+    </edge>
+    <edge source="cy" target="hu">
+      <data key="d0">153</data>
+    </edge>
+    <edge source="cy" target="ee">
+      <data key="d0">137</data>
+    </edge>
+    <edge source="cy" target="lt">
+      <data key="d0">131</data>
+    </edge>
+    <edge source="cy" target="mt">
+      <data key="d0">115</data>
+    </edge>
+    <edge source="cy" target="lv">
+      <data key="d0">81</data>
+    </edge>
+    <edge source="cy" target="sk">
+      <data key="d0">69</data>
+    </edge>
+    <edge source="cy" target="is">
+      <data key="d0">32</data>
+    </edge>
+    <edge source="hu" target="bg">
+      <data key="d0">287</data>
+    </edge>
+    <edge source="hu" target="sk">
+      <data key="d0">271</data>
+    </edge>
+    <edge source="hu" target="hr">
+      <data key="d0">259</data>
+    </edge>
+    <edge source="hu" target="lt">
+      <data key="d0">156</data>
+    </edge>
+    <edge source="hu" target="ee">
+      <data key="d0">139</data>
+    </edge>
+    <edge source="hu" target="lv">
+      <data key="d0">111</data>
+    </edge>
+    <edge source="hu" target="lu">
+      <data key="d0">101</data>
+    </edge>
+    <edge source="hu" target="mt">
+      <data key="d0">55</data>
+    </edge>
+    <edge source="hu" target="is">
+      <data key="d0">51</data>
+    </edge>
+    <edge source="bg" target="hr">
+      <data key="d0">268</data>
+    </edge>
+    <edge source="bg" target="sk">
+      <data key="d0">163</data>
+    </edge>
+    <edge source="bg" target="ee">
+      <data key="d0">151</data>
+    </edge>
+    <edge source="bg" target="lt">
+      <data key="d0">138</data>
+    </edge>
+    <edge source="bg" target="lv">
+      <data key="d0">103</data>
+    </edge>
+    <edge source="bg" target="lu">
+      <data key="d0">89</data>
+    </edge>
+    <edge source="bg" target="mt">
+      <data key="d0">88</data>
+    </edge>
+    <edge source="bg" target="is">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="bg" target="li">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ee" target="lv">
+      <data key="d0">218</data>
+    </edge>
+    <edge source="ee" target="lt">
+      <data key="d0">206</data>
+    </edge>
+    <edge source="ee" target="sk">
+      <data key="d0">123</data>
+    </edge>
+    <edge source="ee" target="hr">
+      <data key="d0">107</data>
+    </edge>
+    <edge source="ee" target="lu">
+      <data key="d0">76</data>
+    </edge>
+    <edge source="ee" target="is">
+      <data key="d0">61</data>
+    </edge>
+    <edge source="ee" target="mt">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="hr" target="sk">
+      <data key="d0">132</data>
+    </edge>
+    <edge source="hr" target="lt">
+      <data key="d0">110</data>
+    </edge>
+    <edge source="hr" target="lv">
+      <data key="d0">85</data>
+    </edge>
+    <edge source="hr" target="lu">
+      <data key="d0">75</data>
+    </edge>
+    <edge source="hr" target="mt">
+      <data key="d0">53</data>
+    </edge>
+    <edge source="hr" target="is">
+      <data key="d0">31</data>
+    </edge>
+    <edge source="hr" target="li">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="lt" target="lv">
+      <data key="d0">170</data>
+    </edge>
+    <edge source="lt" target="sk">
+      <data key="d0">147</data>
+    </edge>
+    <edge source="lt" target="lu">
+      <data key="d0">80</data>
+    </edge>
+    <edge source="lt" target="mt">
+      <data key="d0">60</data>
+    </edge>
+    <edge source="lt" target="is">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="sk" target="lv">
+      <data key="d0">127</data>
+    </edge>
+    <edge source="sk" target="lu">
+      <data key="d0">61</data>
+    </edge>
+    <edge source="sk" target="mt">
+      <data key="d0">52</data>
+    </edge>
+    <edge source="sk" target="is">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="lu" target="lv">
+      <data key="d0">63</data>
+    </edge>
+    <edge source="lu" target="mt">
+      <data key="d0">33</data>
+    </edge>
+    <edge source="lu" target="is">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="lu" target="li">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="lv" target="mt">
+      <data key="d0">46</data>
+    </edge>
+    <edge source="lv" target="is">
+      <data key="d0">39</data>
+    </edge>
+    <edge source="mt" target="is">
+      <data key="d0">21</data>
+    </edge>
+    <edge source="is" target="li">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>

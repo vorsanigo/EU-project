@@ -1,0 +1,1432 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="float" />
+  <graph edgedefault="undirected">
+    <node id="es" />
+    <node id="it" />
+    <node id="de" />
+    <node id="fr" />
+    <node id="nl" />
+    <node id="be" />
+    <node id="gr" />
+    <node id="gb" />
+    <node id="at" />
+    <node id="pt" />
+    <node id="ch" />
+    <node id="se" />
+    <node id="fi" />
+    <node id="dk" />
+    <node id="pl" />
+    <node id="no" />
+    <node id="ie" />
+    <node id="cz" />
+    <node id="si" />
+    <node id="ro" />
+    <node id="cy" />
+    <node id="hu" />
+    <node id="bg" />
+    <node id="ee" />
+    <node id="hr" />
+    <node id="lt" />
+    <node id="sk" />
+    <node id="lu" />
+    <node id="lv" />
+    <node id="mt" />
+    <node id="is" />
+    <edge source="es" target="it">
+      <data key="d0">7797.086811231234</data>
+    </edge>
+    <edge source="es" target="de">
+      <data key="d0">9939.70387609363</data>
+    </edge>
+    <edge source="es" target="fr">
+      <data key="d0">10727.828560589796</data>
+    </edge>
+    <edge source="es" target="be">
+      <data key="d0">3127.110502806986</data>
+    </edge>
+    <edge source="es" target="gr">
+      <data key="d0">1946.2584391695768</data>
+    </edge>
+    <edge source="es" target="nl">
+      <data key="d0">4318.5734691715015</data>
+    </edge>
+    <edge source="es" target="gb">
+      <data key="d0">9864.911197784742</data>
+    </edge>
+    <edge source="es" target="pt">
+      <data key="d0">2380.4489638185014</data>
+    </edge>
+    <edge source="es" target="at">
+      <data key="d0">2656.96976128713</data>
+    </edge>
+    <edge source="es" target="se">
+      <data key="d0">2973.4196148689525</data>
+    </edge>
+    <edge source="es" target="ch">
+      <data key="d0">3332.997529184905</data>
+    </edge>
+    <edge source="es" target="fi">
+      <data key="d0">1793.5259242239144</data>
+    </edge>
+    <edge source="es" target="pl">
+      <data key="d0">4016.456110695434</data>
+    </edge>
+    <edge source="es" target="dk">
+      <data key="d0">2201.96919301679</data>
+    </edge>
+    <edge source="es" target="no">
+      <data key="d0">2287.982358982504</data>
+    </edge>
+    <edge source="es" target="ie">
+      <data key="d0">2588.442913663904</data>
+    </edge>
+    <edge source="es" target="cz">
+      <data key="d0">2233.944807856268</data>
+    </edge>
+    <edge source="es" target="si">
+      <data key="d0">788.2312570236963</data>
+    </edge>
+    <edge source="es" target="ro">
+      <data key="d0">2233.700097156681</data>
+    </edge>
+    <edge source="es" target="hu">
+      <data key="d0">1656.227765217591</data>
+    </edge>
+    <edge source="es" target="cy">
+      <data key="d0">618.8082374826741</data>
+    </edge>
+    <edge source="es" target="bg">
+      <data key="d0">1256.6860871590509</data>
+    </edge>
+    <edge source="es" target="ee">
+      <data key="d0">612.1947966762073</data>
+    </edge>
+    <edge source="es" target="lt">
+      <data key="d0">790.9070842190448</data>
+    </edge>
+    <edge source="es" target="hr">
+      <data key="d0">956.3007249950484</data>
+    </edge>
+    <edge source="es" target="sk">
+      <data key="d0">1236.1311758579047</data>
+    </edge>
+    <edge source="es" target="lu">
+      <data key="d0">737.2577715589726</data>
+    </edge>
+    <edge source="es" target="lv">
+      <data key="d0">568.4327936402769</data>
+    </edge>
+    <edge source="es" target="mt">
+      <data key="d0">371.38094041120166</data>
+    </edge>
+    <edge source="es" target="is">
+      <data key="d0">370.3755061070953</data>
+    </edge>
+    <edge source="it" target="de">
+      <data key="d0">12895.671488774156</data>
+    </edge>
+    <edge source="it" target="fr">
+      <data key="d0">10713.531602565065</data>
+    </edge>
+    <edge source="it" target="nl">
+      <data key="d0">5276.823096276296</data>
+    </edge>
+    <edge source="it" target="be">
+      <data key="d0">3938.6173676925137</data>
+    </edge>
+    <edge source="it" target="gr">
+      <data key="d0">2885.7333641252635</data>
+    </edge>
+    <edge source="it" target="gb">
+      <data key="d0">11083.69444916735</data>
+    </edge>
+    <edge source="it" target="at">
+      <data key="d0">3623.603938777732</data>
+    </edge>
+    <edge source="it" target="pt">
+      <data key="d0">2468.057231113145</data>
+    </edge>
+    <edge source="it" target="se">
+      <data key="d0">3627.8400513123806</data>
+    </edge>
+    <edge source="it" target="ch">
+      <data key="d0">4420.0963967805965</data>
+    </edge>
+    <edge source="it" target="fi">
+      <data key="d0">2320.4321112210746</data>
+    </edge>
+    <edge source="it" target="pl">
+      <data key="d0">5083.76637480109</data>
+    </edge>
+    <edge source="it" target="dk">
+      <data key="d0">2793.5755828282013</data>
+    </edge>
+    <edge source="it" target="no">
+      <data key="d0">2768.394685277378</data>
+    </edge>
+    <edge source="it" target="si">
+      <data key="d0">1065.802693502908</data>
+    </edge>
+    <edge source="it" target="ie">
+      <data key="d0">2905.074356764489</data>
+    </edge>
+    <edge source="it" target="cz">
+      <data key="d0">2970.633871834286</data>
+    </edge>
+    <edge source="it" target="ro">
+      <data key="d0">2874.778222671004</data>
+    </edge>
+    <edge source="it" target="cy">
+      <data key="d0">799.2773259605852</data>
+    </edge>
+    <edge source="it" target="hu">
+      <data key="d0">2588.481254997713</data>
+    </edge>
+    <edge source="it" target="hr">
+      <data key="d0">1601.0866487364408</data>
+    </edge>
+    <edge source="it" target="bg">
+      <data key="d0">1673.6749388074595</data>
+    </edge>
+    <edge source="it" target="ee">
+      <data key="d0">781.9547561171877</data>
+    </edge>
+    <edge source="it" target="lt">
+      <data key="d0">987.0989505483834</data>
+    </edge>
+    <edge source="it" target="sk">
+      <data key="d0">1598.710334518085</data>
+    </edge>
+    <edge source="it" target="lu">
+      <data key="d0">909.1559980508988</data>
+    </edge>
+    <edge source="it" target="lv">
+      <data key="d0">706.0631064704978</data>
+    </edge>
+    <edge source="it" target="mt">
+      <data key="d0">473.585206810248</data>
+    </edge>
+    <edge source="it" target="is">
+      <data key="d0">500.4202216646627</data>
+    </edge>
+    <edge source="de" target="fr">
+      <data key="d0">14558.545103765133</data>
+    </edge>
+    <edge source="de" target="nl">
+      <data key="d0">7916.940120422852</data>
+    </edge>
+    <edge source="de" target="be">
+      <data key="d0">6076.254682859858</data>
+    </edge>
+    <edge source="de" target="gb">
+      <data key="d0">16500.468308766413</data>
+    </edge>
+    <edge source="de" target="at">
+      <data key="d0">5187.380048409306</data>
+    </edge>
+    <edge source="de" target="gr">
+      <data key="d0">3206.073607236849</data>
+    </edge>
+    <edge source="de" target="ch">
+      <data key="d0">6279.570254180113</data>
+    </edge>
+    <edge source="de" target="se">
+      <data key="d0">5101.165419350839</data>
+    </edge>
+    <edge source="de" target="fi">
+      <data key="d0">3046.271937492619</data>
+    </edge>
+    <edge source="de" target="pt">
+      <data key="d0">3275.71022403026</data>
+    </edge>
+    <edge source="de" target="dk">
+      <data key="d0">4058.704259013487</data>
+    </edge>
+    <edge source="de" target="no">
+      <data key="d0">3843.7330199447374</data>
+    </edge>
+    <edge source="de" target="pl">
+      <data key="d0">7221.843372105807</data>
+    </edge>
+    <edge source="de" target="cz">
+      <data key="d0">4493.60843608655</data>
+    </edge>
+    <edge source="de" target="ie">
+      <data key="d0">4197.743346920442</data>
+    </edge>
+    <edge source="de" target="si">
+      <data key="d0">1374.9383640898284</data>
+    </edge>
+    <edge source="de" target="ro">
+      <data key="d0">3805.342244833327</data>
+    </edge>
+    <edge source="de" target="hu">
+      <data key="d0">2890.6271742219856</data>
+    </edge>
+    <edge source="de" target="cy">
+      <data key="d0">1101.139398802373</data>
+    </edge>
+    <edge source="de" target="hr">
+      <data key="d0">1640.6247524098708</data>
+    </edge>
+    <edge source="de" target="ee">
+      <data key="d0">868.7694187492648</data>
+    </edge>
+    <edge source="de" target="bg">
+      <data key="d0">2290.8209546614594</data>
+    </edge>
+    <edge source="de" target="sk">
+      <data key="d0">2184.7700799064537</data>
+    </edge>
+    <edge source="de" target="lt">
+      <data key="d0">1383.4429520992333</data>
+    </edge>
+    <edge source="de" target="lu">
+      <data key="d0">1336.5697763716514</data>
+    </edge>
+    <edge source="de" target="lv">
+      <data key="d0">988.1567318894356</data>
+    </edge>
+    <edge source="de" target="mt">
+      <data key="d0">590.8706136548051</data>
+    </edge>
+    <edge source="de" target="is">
+      <data key="d0">606.6698088815878</data>
+    </edge>
+    <edge source="fr" target="nl">
+      <data key="d0">5983.692333150925</data>
+    </edge>
+    <edge source="fr" target="be">
+      <data key="d0">4602.496767196946</data>
+    </edge>
+    <edge source="fr" target="gb">
+      <data key="d0">13664.579591675212</data>
+    </edge>
+    <edge source="fr" target="gr">
+      <data key="d0">2660.9064385886845</data>
+    </edge>
+    <edge source="fr" target="at">
+      <data key="d0">3880.024494081695</data>
+    </edge>
+    <edge source="fr" target="ch">
+      <data key="d0">4894.607167946482</data>
+    </edge>
+    <edge source="fr" target="se">
+      <data key="d0">4087.2751620961535</data>
+    </edge>
+    <edge source="fr" target="pt">
+      <data key="d0">3146.576585298816</data>
+    </edge>
+    <edge source="fr" target="fi">
+      <data key="d0">2673.4329429105</data>
+    </edge>
+    <edge source="fr" target="pl">
+      <data key="d0">5526.004006269092</data>
+    </edge>
+    <edge source="fr" target="no">
+      <data key="d0">3140.740368379994</data>
+    </edge>
+    <edge source="fr" target="dk">
+      <data key="d0">3218.7506202088803</data>
+    </edge>
+    <edge source="fr" target="cz">
+      <data key="d0">3261.7515076946524</data>
+    </edge>
+    <edge source="fr" target="ie">
+      <data key="d0">3581.2103616344066</data>
+    </edge>
+    <edge source="fr" target="ro">
+      <data key="d0">3062.87622923493</data>
+    </edge>
+    <edge source="fr" target="si">
+      <data key="d0">1084.8320043699655</data>
+    </edge>
+    <edge source="fr" target="hu">
+      <data key="d0">2275.921297776449</data>
+    </edge>
+    <edge source="fr" target="hr">
+      <data key="d0">1314.0583233725497</data>
+    </edge>
+    <edge source="fr" target="cy">
+      <data key="d0">895.3513963780574</data>
+    </edge>
+    <edge source="fr" target="sk">
+      <data key="d0">1699.4958763011082</data>
+    </edge>
+    <edge source="fr" target="bg">
+      <data key="d0">1823.522524756524</data>
+    </edge>
+    <edge source="fr" target="ee">
+      <data key="d0">891.0351227263747</data>
+    </edge>
+    <edge source="fr" target="lt">
+      <data key="d0">1086.8549632216125</data>
+    </edge>
+    <edge source="fr" target="lv">
+      <data key="d0">780.9705699930156</data>
+    </edge>
+    <edge source="fr" target="lu">
+      <data key="d0">1023.6606976533012</data>
+    </edge>
+    <edge source="fr" target="is">
+      <data key="d0">508.4475867906508</data>
+    </edge>
+    <edge source="fr" target="mt">
+      <data key="d0">505.9317696026259</data>
+    </edge>
+    <edge source="nl" target="be">
+      <data key="d0">2585.569900721949</data>
+    </edge>
+    <edge source="nl" target="gb">
+      <data key="d0">6843.158131598935</data>
+    </edge>
+    <edge source="nl" target="gr">
+      <data key="d0">1511.7604182016769</data>
+    </edge>
+    <edge source="nl" target="at">
+      <data key="d0">1960.801668994136</data>
+    </edge>
+    <edge source="nl" target="ch">
+      <data key="d0">2439.2018106281057</data>
+    </edge>
+    <edge source="nl" target="se">
+      <data key="d0">2116.9339693027027</data>
+    </edge>
+    <edge source="nl" target="fi">
+      <data key="d0">1343.686118530123</data>
+    </edge>
+    <edge source="nl" target="pt">
+      <data key="d0">1369.5774561714973</data>
+    </edge>
+    <edge source="nl" target="dk">
+      <data key="d0">1731.4478721892838</data>
+    </edge>
+    <edge source="nl" target="no">
+      <data key="d0">1599.5513561225932</data>
+    </edge>
+    <edge source="nl" target="pl">
+      <data key="d0">2884.7295917270026</data>
+    </edge>
+    <edge source="nl" target="ie">
+      <data key="d0">1741.037771188781</data>
+    </edge>
+    <edge source="nl" target="cz">
+      <data key="d0">1678.2454067715405</data>
+    </edge>
+    <edge source="nl" target="hu">
+      <data key="d0">1392.9866507800627</data>
+    </edge>
+    <edge source="nl" target="ro">
+      <data key="d0">1540.47967788894</data>
+    </edge>
+    <edge source="nl" target="si">
+      <data key="d0">549.2565488715436</data>
+    </edge>
+    <edge source="nl" target="cy">
+      <data key="d0">431.96863167283726</data>
+    </edge>
+    <edge source="nl" target="ee">
+      <data key="d0">451.1474441480577</data>
+    </edge>
+    <edge source="nl" target="sk">
+      <data key="d0">872.0798923986185</data>
+    </edge>
+    <edge source="nl" target="hr">
+      <data key="d0">818.1321983672459</data>
+    </edge>
+    <edge source="nl" target="lt">
+      <data key="d0">698.0266659709221</data>
+    </edge>
+    <edge source="nl" target="bg">
+      <data key="d0">891.2864847344132</data>
+    </edge>
+    <edge source="nl" target="lv">
+      <data key="d0">517.6188044188514</data>
+    </edge>
+    <edge source="nl" target="lu">
+      <data key="d0">584.1666303144049</data>
+    </edge>
+    <edge source="nl" target="mt">
+      <data key="d0">297.35860795519903</data>
+    </edge>
+    <edge source="nl" target="is">
+      <data key="d0">292.6736782562673</data>
+    </edge>
+    <edge source="be" target="gr">
+      <data key="d0">975.6371939387892</data>
+    </edge>
+    <edge source="be" target="gb">
+      <data key="d0">5293.969670415945</data>
+    </edge>
+    <edge source="be" target="at">
+      <data key="d0">1413.1030168952273</data>
+    </edge>
+    <edge source="be" target="pt">
+      <data key="d0">1029.63248560198</data>
+    </edge>
+    <edge source="be" target="fi">
+      <data key="d0">928.6718272912728</data>
+    </edge>
+    <edge source="be" target="se">
+      <data key="d0">1555.521367024127</data>
+    </edge>
+    <edge source="be" target="ch">
+      <data key="d0">1949.7836814819948</data>
+    </edge>
+    <edge source="be" target="dk">
+      <data key="d0">1224.4876132558024</data>
+    </edge>
+    <edge source="be" target="no">
+      <data key="d0">1179.860487900631</data>
+    </edge>
+    <edge source="be" target="pl">
+      <data key="d0">2127.449128610345</data>
+    </edge>
+    <edge source="be" target="ie">
+      <data key="d0">1336.646875193695</data>
+    </edge>
+    <edge source="be" target="cz">
+      <data key="d0">1071.2857650920837</data>
+    </edge>
+    <edge source="be" target="si">
+      <data key="d0">410.94837388746</data>
+    </edge>
+    <edge source="be" target="ro">
+      <data key="d0">1145.4887910802377</data>
+    </edge>
+    <edge source="be" target="hu">
+      <data key="d0">861.3536189534846</data>
+    </edge>
+    <edge source="be" target="ee">
+      <data key="d0">262.4212551808281</data>
+    </edge>
+    <edge source="be" target="cy">
+      <data key="d0">257.52712687724414</data>
+    </edge>
+    <edge source="be" target="lt">
+      <data key="d0">414.4669297199434</data>
+    </edge>
+    <edge source="be" target="bg">
+      <data key="d0">505.8993665957599</data>
+    </edge>
+    <edge source="be" target="hr">
+      <data key="d0">492.9964853258596</data>
+    </edge>
+    <edge source="be" target="lu">
+      <data key="d0">448.8703751483269</data>
+    </edge>
+    <edge source="be" target="sk">
+      <data key="d0">647.361846393851</data>
+    </edge>
+    <edge source="be" target="lv">
+      <data key="d0">297.2443867879025</data>
+    </edge>
+    <edge source="be" target="mt">
+      <data key="d0">181.45908732425065</data>
+    </edge>
+    <edge source="be" target="is">
+      <data key="d0">188.64370263090603</data>
+    </edge>
+    <edge source="gr" target="gb">
+      <data key="d0">2791.602338163741</data>
+    </edge>
+    <edge source="gr" target="pt">
+      <data key="d0">713.6872006165202</data>
+    </edge>
+    <edge source="gr" target="cy">
+      <data key="d0">223.21286904293063</data>
+    </edge>
+    <edge source="gr" target="ch">
+      <data key="d0">1056.6206797785449</data>
+    </edge>
+    <edge source="gr" target="at">
+      <data key="d0">885.8398474397334</data>
+    </edge>
+    <edge source="gr" target="fi">
+      <data key="d0">602.9097050191423</data>
+    </edge>
+    <edge source="gr" target="se">
+      <data key="d0">1074.4940403094895</data>
+    </edge>
+    <edge source="gr" target="no">
+      <data key="d0">822.6884550469929</data>
+    </edge>
+    <edge source="gr" target="pl">
+      <data key="d0">1497.6083016270877</data>
+    </edge>
+    <edge source="gr" target="dk">
+      <data key="d0">708.614226490368</data>
+    </edge>
+    <edge source="gr" target="ro">
+      <data key="d0">892.5440936982866</data>
+    </edge>
+    <edge source="gr" target="ie">
+      <data key="d0">874.6112902740839</data>
+    </edge>
+    <edge source="gr" target="si">
+      <data key="d0">296.3786110456129</data>
+    </edge>
+    <edge source="gr" target="cz">
+      <data key="d0">744.2073462800529</data>
+    </edge>
+    <edge source="gr" target="bg">
+      <data key="d0">475.1594459242855</data>
+    </edge>
+    <edge source="gr" target="lu">
+      <data key="d0">256.9689751273408</data>
+    </edge>
+    <edge source="gr" target="hu">
+      <data key="d0">638.582122580823</data>
+    </edge>
+    <edge source="gr" target="lt">
+      <data key="d0">294.3312093641234</data>
+    </edge>
+    <edge source="gr" target="hr">
+      <data key="d0">368.1028105128948</data>
+    </edge>
+    <edge source="gr" target="ee">
+      <data key="d0">203.3422764407489</data>
+    </edge>
+    <edge source="gr" target="lv">
+      <data key="d0">210.70211584714332</data>
+    </edge>
+    <edge source="gr" target="sk">
+      <data key="d0">470.9027671522169</data>
+    </edge>
+    <edge source="gr" target="mt">
+      <data key="d0">142.34456967912925</data>
+    </edge>
+    <edge source="gr" target="is">
+      <data key="d0">129.41524819320264</data>
+    </edge>
+    <edge source="gb" target="ch">
+      <data key="d0">5293.361285094133</data>
+    </edge>
+    <edge source="gb" target="se">
+      <data key="d0">4580.864406755234</data>
+    </edge>
+    <edge source="gb" target="pt">
+      <data key="d0">3014.1367422354074</data>
+    </edge>
+    <edge source="gb" target="at">
+      <data key="d0">4259.3527184407685</data>
+    </edge>
+    <edge source="gb" target="fi">
+      <data key="d0">3040.1763030487627</data>
+    </edge>
+    <edge source="gb" target="no">
+      <data key="d0">3499.1611474864426</data>
+    </edge>
+    <edge source="gb" target="dk">
+      <data key="d0">3769.695784985972</data>
+    </edge>
+    <edge source="gb" target="ie">
+      <data key="d0">4296.0731209522255</data>
+    </edge>
+    <edge source="gb" target="pl">
+      <data key="d0">6039.200453108246</data>
+    </edge>
+    <edge source="gb" target="cz">
+      <data key="d0">3630.648044998872</data>
+    </edge>
+    <edge source="gb" target="si">
+      <data key="d0">1150.096548515404</data>
+    </edge>
+    <edge source="gb" target="ro">
+      <data key="d0">3269.621454139556</data>
+    </edge>
+    <edge source="gb" target="hu">
+      <data key="d0">2434.178874796061</data>
+    </edge>
+    <edge source="gb" target="cy">
+      <data key="d0">970.5087865557832</data>
+    </edge>
+    <edge source="gb" target="ee">
+      <data key="d0">1008.9092437122886</data>
+    </edge>
+    <edge source="gb" target="bg">
+      <data key="d0">1984.1055243605824</data>
+    </edge>
+    <edge source="gb" target="lt">
+      <data key="d0">1193.292516464056</data>
+    </edge>
+    <edge source="gb" target="sk">
+      <data key="d0">1829.709026781907</data>
+    </edge>
+    <edge source="gb" target="hr">
+      <data key="d0">1388.4345092952003</data>
+    </edge>
+    <edge source="gb" target="lu">
+      <data key="d0">1123.697334666377</data>
+    </edge>
+    <edge source="gb" target="lv">
+      <data key="d0">859.4159994446142</data>
+    </edge>
+    <edge source="gb" target="is">
+      <data key="d0">571.1264613451937</data>
+    </edge>
+    <edge source="gb" target="mt">
+      <data key="d0">519.5465253059964</data>
+    </edge>
+    <edge source="at" target="se">
+      <data key="d0">1336.1041278910693</data>
+    </edge>
+    <edge source="at" target="fi">
+      <data key="d0">804.3793224458524</data>
+    </edge>
+    <edge source="at" target="ch">
+      <data key="d0">1704.692098254767</data>
+    </edge>
+    <edge source="at" target="pl">
+      <data key="d0">1934.046722427045</data>
+    </edge>
+    <edge source="at" target="pt">
+      <data key="d0">873.5161785539924</data>
+    </edge>
+    <edge source="at" target="dk">
+      <data key="d0">1028.0240936998998</data>
+    </edge>
+    <edge source="at" target="cz">
+      <data key="d0">1030.5467093359084</data>
+    </edge>
+    <edge source="at" target="no">
+      <data key="d0">1012.2388999796924</data>
+    </edge>
+    <edge source="at" target="ro">
+      <data key="d0">1054.009491484808</data>
+    </edge>
+    <edge source="at" target="si">
+      <data key="d0">415.9526231616909</data>
+    </edge>
+    <edge source="at" target="hu">
+      <data key="d0">824.7748046544674</data>
+    </edge>
+    <edge source="at" target="ie">
+      <data key="d0">1093.963494547291</data>
+    </edge>
+    <edge source="at" target="hr">
+      <data key="d0">476.439319832409</data>
+    </edge>
+    <edge source="at" target="sk">
+      <data key="d0">614.2557657201216</data>
+    </edge>
+    <edge source="at" target="bg">
+      <data key="d0">462.52294202613206</data>
+    </edge>
+    <edge source="at" target="cy">
+      <data key="d0">229.952153903198</data>
+    </edge>
+    <edge source="at" target="ee">
+      <data key="d0">229.97036774110416</data>
+    </edge>
+    <edge source="at" target="lv">
+      <data key="d0">262.0194460340343</data>
+    </edge>
+    <edge source="at" target="lt">
+      <data key="d0">367.7628094450886</data>
+    </edge>
+    <edge source="at" target="lu">
+      <data key="d0">337.0305767316245</data>
+    </edge>
+    <edge source="at" target="mt">
+      <data key="d0">162.22852946790545</data>
+    </edge>
+    <edge source="at" target="is">
+      <data key="d0">159.44072688283146</data>
+    </edge>
+    <edge source="pt" target="fi">
+      <data key="d0">611.5602997630347</data>
+    </edge>
+    <edge source="pt" target="dk">
+      <data key="d0">729.6155999382858</data>
+    </edge>
+    <edge source="pt" target="no">
+      <data key="d0">724.7170964093771</data>
+    </edge>
+    <edge source="pt" target="se">
+      <data key="d0">1090.0725871268214</data>
+    </edge>
+    <edge source="pt" target="ch">
+      <data key="d0">1089.8333751930677</data>
+    </edge>
+    <edge source="pt" target="pl">
+      <data key="d0">1438.7900510331503</data>
+    </edge>
+    <edge source="pt" target="ie">
+      <data key="d0">805.9639498513076</data>
+    </edge>
+    <edge source="pt" target="ro">
+      <data key="d0">813.3879226614655</data>
+    </edge>
+    <edge source="pt" target="cz">
+      <data key="d0">736.2773228267947</data>
+    </edge>
+    <edge source="pt" target="si">
+      <data key="d0">285.46987649330123</data>
+    </edge>
+    <edge source="pt" target="cy">
+      <data key="d0">205.13030604823405</data>
+    </edge>
+    <edge source="pt" target="hu">
+      <data key="d0">631.1785317124949</data>
+    </edge>
+    <edge source="pt" target="hr">
+      <data key="d0">374.72035294957976</data>
+    </edge>
+    <edge source="pt" target="bg">
+      <data key="d0">415.09629450991287</data>
+    </edge>
+    <edge source="pt" target="ee">
+      <data key="d0">203.24063465374317</data>
+    </edge>
+    <edge source="pt" target="lu">
+      <data key="d0">241.019398442928</data>
+    </edge>
+    <edge source="pt" target="sk">
+      <data key="d0">449.5174095936977</data>
+    </edge>
+    <edge source="pt" target="lt">
+      <data key="d0">312.4932464509683</data>
+    </edge>
+    <edge source="pt" target="lv">
+      <data key="d0">232.35313616848345</data>
+    </edge>
+    <edge source="pt" target="is">
+      <data key="d0">136.874914627257</data>
+    </edge>
+    <edge source="pt" target="mt">
+      <data key="d0">144.0248456529648</data>
+    </edge>
+    <edge source="ch" target="se">
+      <data key="d0">1612.818865809552</data>
+    </edge>
+    <edge source="ch" target="fi">
+      <data key="d0">969.0123789389862</data>
+    </edge>
+    <edge source="ch" target="dk">
+      <data key="d0">1245.170756648492</data>
+    </edge>
+    <edge source="ch" target="no">
+      <data key="d0">1226.5879985988</data>
+    </edge>
+    <edge source="ch" target="pl">
+      <data key="d0">2252.899718298489</data>
+    </edge>
+    <edge source="ch" target="cz">
+      <data key="d0">1153.23351718995</data>
+    </edge>
+    <edge source="ch" target="ie">
+      <data key="d0">1359.3752713924018</data>
+    </edge>
+    <edge source="ch" target="si">
+      <data key="d0">456.9819492260044</data>
+    </edge>
+    <edge source="ch" target="ro">
+      <data key="d0">1233.414769055785</data>
+    </edge>
+    <edge source="ch" target="cy">
+      <data key="d0">275.9507363512781</data>
+    </edge>
+    <edge source="ch" target="hu">
+      <data key="d0">934.945541985126</data>
+    </edge>
+    <edge source="ch" target="ee">
+      <data key="d0">274.8318216983332</data>
+    </edge>
+    <edge source="ch" target="lt">
+      <data key="d0">435.9074247733599</data>
+    </edge>
+    <edge source="ch" target="bg">
+      <data key="d0">752.216023352714</data>
+    </edge>
+    <edge source="ch" target="lu">
+      <data key="d0">432.6034058286352</data>
+    </edge>
+    <edge source="ch" target="hr">
+      <data key="d0">544.0182129552318</data>
+    </edge>
+    <edge source="ch" target="sk">
+      <data key="d0">697.8526633194447</data>
+    </edge>
+    <edge source="ch" target="lv">
+      <data key="d0">311.905507414139</data>
+    </edge>
+    <edge source="ch" target="mt">
+      <data key="d0">197.3497022473156</data>
+    </edge>
+    <edge source="ch" target="is">
+      <data key="d0">195.18478487636523</data>
+    </edge>
+    <edge source="se" target="fi">
+      <data key="d0">1106.4995802200997</data>
+    </edge>
+    <edge source="se" target="dk">
+      <data key="d0">1206.7709150323517</data>
+    </edge>
+    <edge source="se" target="no">
+      <data key="d0">1272.3388390142363</data>
+    </edge>
+    <edge source="se" target="pl">
+      <data key="d0">2325.864068473375</data>
+    </edge>
+    <edge source="se" target="cz">
+      <data key="d0">1151.8517063299962</data>
+    </edge>
+    <edge source="se" target="ie">
+      <data key="d0">1195.2321680362168</data>
+    </edge>
+    <edge source="se" target="si">
+      <data key="d0">382.837387945167</data>
+    </edge>
+    <edge source="se" target="hu">
+      <data key="d0">978.7588250761528</data>
+    </edge>
+    <edge source="se" target="ro">
+      <data key="d0">1341.039367700938</data>
+    </edge>
+    <edge source="se" target="ee">
+      <data key="d0">354.2947266647173</data>
+    </edge>
+    <edge source="se" target="lt">
+      <data key="d0">524.5807851018769</data>
+    </edge>
+    <edge source="se" target="hr">
+      <data key="d0">568.1139024796386</data>
+    </edge>
+    <edge source="se" target="bg">
+      <data key="d0">637.2043417967253</data>
+    </edge>
+    <edge source="se" target="lv">
+      <data key="d0">396.8452155032345</data>
+    </edge>
+    <edge source="se" target="cy">
+      <data key="d0">312.09474426079373</data>
+    </edge>
+    <edge source="se" target="sk">
+      <data key="d0">622.9555179389966</data>
+    </edge>
+    <edge source="se" target="lu">
+      <data key="d0">363.0114633948071</data>
+    </edge>
+    <edge source="se" target="is">
+      <data key="d0">216.73677331311416</data>
+    </edge>
+    <edge source="se" target="mt">
+      <data key="d0">208.9296523911452</data>
+    </edge>
+    <edge source="fi" target="no">
+      <data key="d0">840.8976976640962</data>
+    </edge>
+    <edge source="fi" target="dk">
+      <data key="d0">708.9249408590002</data>
+    </edge>
+    <edge source="fi" target="pl">
+      <data key="d0">1323.308286290792</data>
+    </edge>
+    <edge source="fi" target="cz">
+      <data key="d0">692.1496201224702</data>
+    </edge>
+    <edge source="fi" target="ee">
+      <data key="d0">217.72766731954755</data>
+    </edge>
+    <edge source="fi" target="ie">
+      <data key="d0">785.2897722862417</data>
+    </edge>
+    <edge source="fi" target="si">
+      <data key="d0">243.0506702741091</data>
+    </edge>
+    <edge source="fi" target="ro">
+      <data key="d0">716.5891161864699</data>
+    </edge>
+    <edge source="fi" target="hu">
+      <data key="d0">524.8416665214344</data>
+    </edge>
+    <edge source="fi" target="cy">
+      <data key="d0">190.8769968438004</data>
+    </edge>
+    <edge source="fi" target="lt">
+      <data key="d0">273.27909520164303</data>
+    </edge>
+    <edge source="fi" target="lv">
+      <data key="d0">200.7980980496629</data>
+    </edge>
+    <edge source="fi" target="hr">
+      <data key="d0">295.3078766067621</data>
+    </edge>
+    <edge source="fi" target="bg">
+      <data key="d0">388.03840590097815</data>
+    </edge>
+    <edge source="fi" target="sk">
+      <data key="d0">396.1218431864466</data>
+    </edge>
+    <edge source="fi" target="lu">
+      <data key="d0">223.61159496960923</data>
+    </edge>
+    <edge source="fi" target="is">
+      <data key="d0">120.985411903644</data>
+    </edge>
+    <edge source="fi" target="mt">
+      <data key="d0">110.15446042938902</data>
+    </edge>
+    <edge source="dk" target="no">
+      <data key="d0">895.2662884727735</data>
+    </edge>
+    <edge source="dk" target="pl">
+      <data key="d0">1606.9828815746248</data>
+    </edge>
+    <edge source="dk" target="ie">
+      <data key="d0">954.8787406235076</data>
+    </edge>
+    <edge source="dk" target="si">
+      <data key="d0">294.60453893538954</data>
+    </edge>
+    <edge source="dk" target="cz">
+      <data key="d0">891.5500169191354</data>
+    </edge>
+    <edge source="dk" target="ee">
+      <data key="d0">201.38221644417183</data>
+    </edge>
+    <edge source="dk" target="ro">
+      <data key="d0">842.2900606689874</data>
+    </edge>
+    <edge source="dk" target="hu">
+      <data key="d0">629.5810066990429</data>
+    </edge>
+    <edge source="dk" target="hr">
+      <data key="d0">355.09864506859225</data>
+    </edge>
+    <edge source="dk" target="cy">
+      <data key="d0">230.61209189423317</data>
+    </edge>
+    <edge source="dk" target="lt">
+      <data key="d0">317.0784928215726</data>
+    </edge>
+    <edge source="dk" target="lv">
+      <data key="d0">227.99042891657444</data>
+    </edge>
+    <edge source="dk" target="bg">
+      <data key="d0">475.49056213403634</data>
+    </edge>
+    <edge source="dk" target="sk">
+      <data key="d0">476.6873370965292</data>
+    </edge>
+    <edge source="dk" target="lu">
+      <data key="d0">280.83565172483463</data>
+    </edge>
+    <edge source="dk" target="is">
+      <data key="d0">140.00068677955693</data>
+    </edge>
+    <edge source="dk" target="mt">
+      <data key="d0">130.30951822070912</data>
+    </edge>
+    <edge source="pl" target="no">
+      <data key="d0">1527.5688939317347</data>
+    </edge>
+    <edge source="pl" target="cz">
+      <data key="d0">1721.1223833511424</data>
+    </edge>
+    <edge source="pl" target="ie">
+      <data key="d0">1571.039142230826</data>
+    </edge>
+    <edge source="pl" target="ro">
+      <data key="d0">1783.621067359417</data>
+    </edge>
+    <edge source="pl" target="hu">
+      <data key="d0">1438.4377073737112</data>
+    </edge>
+    <edge source="pl" target="si">
+      <data key="d0">612.3699136093151</data>
+    </edge>
+    <edge source="pl" target="lv">
+      <data key="d0">535.7019300830416</data>
+    </edge>
+    <edge source="pl" target="sk">
+      <data key="d0">1044.788295164387</data>
+    </edge>
+    <edge source="pl" target="bg">
+      <data key="d0">897.8021962626789</data>
+    </edge>
+    <edge source="pl" target="lt">
+      <data key="d0">739.0911460201589</data>
+    </edge>
+    <edge source="pl" target="hr">
+      <data key="d0">813.8597419295414</data>
+    </edge>
+    <edge source="pl" target="ee">
+      <data key="d0">458.3932699935877</data>
+    </edge>
+    <edge source="pl" target="cy">
+      <data key="d0">427.3490023162104</data>
+    </edge>
+    <edge source="pl" target="lu">
+      <data key="d0">501.1252433849205</data>
+    </edge>
+    <edge source="pl" target="mt">
+      <data key="d0">287.9808532249695</data>
+    </edge>
+    <edge source="pl" target="is">
+      <data key="d0">275.0575226567149</data>
+    </edge>
+    <edge source="no" target="ie">
+      <data key="d0">919.3341385521836</data>
+    </edge>
+    <edge source="no" target="cz">
+      <data key="d0">868.5369395718286</data>
+    </edge>
+    <edge source="no" target="si">
+      <data key="d0">283.59235628313047</data>
+    </edge>
+    <edge source="no" target="ee">
+      <data key="d0">261.5127900075754</data>
+    </edge>
+    <edge source="no" target="ro">
+      <data key="d0">830.522888520015</data>
+    </edge>
+    <edge source="no" target="hu">
+      <data key="d0">741.869179404408</data>
+    </edge>
+    <edge source="no" target="cy">
+      <data key="d0">240.14576688667</data>
+    </edge>
+    <edge source="no" target="lt">
+      <data key="d0">390.2539386082624</data>
+    </edge>
+    <edge source="no" target="bg">
+      <data key="d0">486.5359862423611</data>
+    </edge>
+    <edge source="no" target="hr">
+      <data key="d0">432.029413271075</data>
+    </edge>
+    <edge source="no" target="sk">
+      <data key="d0">459.3200494360776</data>
+    </edge>
+    <edge source="no" target="is">
+      <data key="d0">171.5968882683967</data>
+    </edge>
+    <edge source="no" target="lv">
+      <data key="d0">294.03123851337733</data>
+    </edge>
+    <edge source="no" target="lu">
+      <data key="d0">275.32443875779416</data>
+    </edge>
+    <edge source="no" target="mt">
+      <data key="d0">160.35085236019202</data>
+    </edge>
+    <edge source="ie" target="ro">
+      <data key="d0">856.1794748636929</data>
+    </edge>
+    <edge source="ie" target="cz">
+      <data key="d0">930.4764433394485</data>
+    </edge>
+    <edge source="ie" target="cy">
+      <data key="d0">251.98809692289768</data>
+    </edge>
+    <edge source="ie" target="si">
+      <data key="d0">300.23204811821506</data>
+    </edge>
+    <edge source="ie" target="hu">
+      <data key="d0">788.5071620695553</data>
+    </edge>
+    <edge source="ie" target="ee">
+      <data key="d0">259.79735194469805</data>
+    </edge>
+    <edge source="ie" target="bg">
+      <data key="d0">513.2713142531958</data>
+    </edge>
+    <edge source="ie" target="lt">
+      <data key="d0">311.1240095723491</data>
+    </edge>
+    <edge source="ie" target="hr">
+      <data key="d0">464.27597876242993</data>
+    </edge>
+    <edge source="ie" target="sk">
+      <data key="d0">477.2233561522165</data>
+    </edge>
+    <edge source="ie" target="lu">
+      <data key="d0">289.51324343946175</data>
+    </edge>
+    <edge source="ie" target="lv">
+      <data key="d0">224.20950574965616</data>
+    </edge>
+    <edge source="ie" target="mt">
+      <data key="d0">136.89406854616075</data>
+    </edge>
+    <edge source="ie" target="is">
+      <data key="d0">152.2026054089918</data>
+    </edge>
+    <edge source="cz" target="sk">
+      <data key="d0">534.8153860233566</data>
+    </edge>
+    <edge source="cz" target="ro">
+      <data key="d0">896.592325972843</data>
+    </edge>
+    <edge source="cz" target="hu">
+      <data key="d0">698.7669044761591</data>
+    </edge>
+    <edge source="cz" target="si">
+      <data key="d0">326.8389427561287</data>
+    </edge>
+    <edge source="cz" target="lt">
+      <data key="d0">320.0889521800456</data>
+    </edge>
+    <edge source="cz" target="ee">
+      <data key="d0">198.94649072509327</data>
+    </edge>
+    <edge source="cz" target="hr">
+      <data key="d0">388.3393779667788</data>
+    </edge>
+    <edge source="cz" target="bg">
+      <data key="d0">441.475461941686</data>
+    </edge>
+    <edge source="cz" target="lv">
+      <data key="d0">227.32789283570585</data>
+    </edge>
+    <edge source="cz" target="cy">
+      <data key="d0">209.43348816821063</data>
+    </edge>
+    <edge source="cz" target="lu">
+      <data key="d0">285.01178740222963</data>
+    </edge>
+    <edge source="cz" target="mt">
+      <data key="d0">135.6766629315967</data>
+    </edge>
+    <edge source="cz" target="is">
+      <data key="d0">136.13333410717496</data>
+    </edge>
+    <edge source="si" target="hr">
+      <data key="d0">179.53597886625684</data>
+    </edge>
+    <edge source="si" target="ro">
+      <data key="d0">368.30899792866</data>
+    </edge>
+    <edge source="si" target="hu">
+      <data key="d0">285.96182145470283</data>
+    </edge>
+    <edge source="si" target="cy">
+      <data key="d0">82.4741023841143</data>
+    </edge>
+    <edge source="si" target="lu">
+      <data key="d0">97.66727755771</data>
+    </edge>
+    <edge source="si" target="ee">
+      <data key="d0">82.41099310640186</data>
+    </edge>
+    <edge source="si" target="bg">
+      <data key="d0">175.2383424297447</data>
+    </edge>
+    <edge source="si" target="lt">
+      <data key="d0">128.9707286474163</data>
+    </edge>
+    <edge source="si" target="sk">
+      <data key="d0">209.27661015416027</data>
+    </edge>
+    <edge source="si" target="lv">
+      <data key="d0">95.04775167378637</data>
+    </edge>
+    <edge source="si" target="mt">
+      <data key="d0">57.4812318686639</data>
+    </edge>
+    <edge source="si" target="is">
+      <data key="d0">51.89200024813982</data>
+    </edge>
+    <edge source="ro" target="bg">
+      <data key="d0">563.2827357649523</data>
+    </edge>
+    <edge source="ro" target="hu">
+      <data key="d0">821.5842822580811</data>
+    </edge>
+    <edge source="ro" target="hr">
+      <data key="d0">465.6892026750808</data>
+    </edge>
+    <edge source="ro" target="sk">
+      <data key="d0">612.727633327807</data>
+    </edge>
+    <edge source="ro" target="cy">
+      <data key="d0">250.25993769062964</data>
+    </edge>
+    <edge source="ro" target="ee">
+      <data key="d0">244.36958951546555</data>
+    </edge>
+    <edge source="ro" target="lt">
+      <data key="d0">383.50540522008464</data>
+    </edge>
+    <edge source="ro" target="lv">
+      <data key="d0">282.3084624040956</data>
+    </edge>
+    <edge source="ro" target="lu">
+      <data key="d0">270.1155220010452</data>
+    </edge>
+    <edge source="ro" target="mt">
+      <data key="d0">165.55907328247812</data>
+    </edge>
+    <edge source="ro" target="is">
+      <data key="d0">150.36531204941826</data>
+    </edge>
+    <edge source="cy" target="bg">
+      <data key="d0">119.984351317173</data>
+    </edge>
+    <edge source="cy" target="lu">
+      <data key="d0">73.08787215805403</data>
+    </edge>
+    <edge source="cy" target="hr">
+      <data key="d0">101.47628738761784</data>
+    </edge>
+    <edge source="cy" target="hu">
+      <data key="d0">178.24625605760156</data>
+    </edge>
+    <edge source="cy" target="ee">
+      <data key="d0">53.96832458940726</data>
+    </edge>
+    <edge source="cy" target="lt">
+      <data key="d0">85.00441484446698</data>
+    </edge>
+    <edge source="cy" target="mt">
+      <data key="d0">39.46980444623047</data>
+    </edge>
+    <edge source="cy" target="lv">
+      <data key="d0">61.04958971238468</data>
+    </edge>
+    <edge source="cy" target="sk">
+      <data key="d0">132.59913395938622</data>
+    </edge>
+    <edge source="cy" target="is">
+      <data key="d0">37.64823703274271</data>
+    </edge>
+    <edge source="hu" target="bg">
+      <data key="d0">385.3759929732004</data>
+    </edge>
+    <edge source="hu" target="sk">
+      <data key="d0">491.5597760288475</data>
+    </edge>
+    <edge source="hu" target="hr">
+      <data key="d0">362.9733167756023</data>
+    </edge>
+    <edge source="hu" target="lt">
+      <data key="d0">273.55502456116045</data>
+    </edge>
+    <edge source="hu" target="ee">
+      <data key="d0">179.06776473381686</data>
+    </edge>
+    <edge source="hu" target="lv">
+      <data key="d0">194.34111916116544</data>
+    </edge>
+    <edge source="hu" target="lu">
+      <data key="d0">236.7918058424201</data>
+    </edge>
+    <edge source="hu" target="mt">
+      <data key="d0">118.99151750764692</data>
+    </edge>
+    <edge source="hu" target="is">
+      <data key="d0">116.10135190816496</data>
+    </edge>
+    <edge source="bg" target="hr">
+      <data key="d0">217.74944550389705</data>
+    </edge>
+    <edge source="bg" target="sk">
+      <data key="d0">283.911288386988</data>
+    </edge>
+    <edge source="bg" target="ee">
+      <data key="d0">110.7905953435335</data>
+    </edge>
+    <edge source="bg" target="lt">
+      <data key="d0">176.31021953688</data>
+    </edge>
+    <edge source="bg" target="lv">
+      <data key="d0">125.96695692405623</data>
+    </edge>
+    <edge source="bg" target="lu">
+      <data key="d0">151.17030709382846</data>
+    </edge>
+    <edge source="bg" target="mt">
+      <data key="d0">80.2678554091452</data>
+    </edge>
+    <edge source="bg" target="is">
+      <data key="d0">76.13170034107104</data>
+    </edge>
+    <edge source="ee" target="lv">
+      <data key="d0">75.3904252530192</data>
+    </edge>
+    <edge source="ee" target="lt">
+      <data key="d0">98.55393253825028</data>
+    </edge>
+    <edge source="ee" target="sk">
+      <data key="d0">135.68284840838456</data>
+    </edge>
+    <edge source="ee" target="hr">
+      <data key="d0">100.11714870608384</data>
+    </edge>
+    <edge source="ee" target="lu">
+      <data key="d0">75.17017585393788</data>
+    </edge>
+    <edge source="ee" target="is">
+      <data key="d0">39.31086901646555</data>
+    </edge>
+    <edge source="ee" target="mt">
+      <data key="d0">36.95762033092127</data>
+    </edge>
+    <edge source="hr" target="sk">
+      <data key="d0">262.3625969547852</data>
+    </edge>
+    <edge source="hr" target="lt">
+      <data key="d0">156.56222308557707</data>
+    </edge>
+    <edge source="hr" target="lv">
+      <data key="d0">111.64704826052564</data>
+    </edge>
+    <edge source="hr" target="lu">
+      <data key="d0">140.03109074315856</data>
+    </edge>
+    <edge source="hr" target="mt">
+      <data key="d0">71.49442655784513</data>
+    </edge>
+    <edge source="hr" target="is">
+      <data key="d0">68.01698443948013</data>
+    </edge>
+    <edge source="lt" target="lv">
+      <data key="d0">116.83283589500935</data>
+    </edge>
+    <edge source="lt" target="sk">
+      <data key="d0">214.92433266979955</data>
+    </edge>
+    <edge source="lt" target="lu">
+      <data key="d0">116.56869569562396</data>
+    </edge>
+    <edge source="lt" target="mt">
+      <data key="d0">57.19795818189628</data>
+    </edge>
+    <edge source="lt" target="is">
+      <data key="d0">55.16499472497684</data>
+    </edge>
+    <edge source="sk" target="lv">
+      <data key="d0">157.35931874821168</data>
+    </edge>
+    <edge source="sk" target="lu">
+      <data key="d0">153.0197789876308</data>
+    </edge>
+    <edge source="sk" target="mt">
+      <data key="d0">89.87793254729627</data>
+    </edge>
+    <edge source="sk" target="is">
+      <data key="d0">83.25850595788616</data>
+    </edge>
+    <edge source="lu" target="lv">
+      <data key="d0">69.68302210898426</data>
+    </edge>
+    <edge source="lu" target="mt">
+      <data key="d0">42.7869352816823</data>
+    </edge>
+    <edge source="lu" target="is">
+      <data key="d0">48.6927200221422</data>
+    </edge>
+    <edge source="lv" target="mt">
+      <data key="d0">42.39513829865929</data>
+    </edge>
+    <edge source="lv" target="is">
+      <data key="d0">39.93434731561647</data>
+    </edge>
+    <edge source="mt" target="is">
+      <data key="d0">23.809883275919606</data>
+    </edge>
+  </graph>
+</graphml>

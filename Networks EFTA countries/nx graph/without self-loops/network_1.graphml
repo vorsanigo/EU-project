@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d0" for="edge" attr.name="weight" attr.type="long" />
+  <graph edgedefault="undirected">
+    <node id="fr" />
+    <node id="gb" />
+    <node id="de" />
+    <node id="it" />
+    <node id="nl" />
+    <node id="be" />
+    <node id="dk" />
+    <node id="es" />
+    <node id="ie" />
+    <node id="gr" />
+    <node id="pt" />
+    <node id="se" />
+    <node id="ch" />
+    <node id="fi" />
+    <node id="lu" />
+    <node id="no" />
+    <node id="at" />
+    <edge source="fr" target="gb">
+      <data key="d0">944</data>
+    </edge>
+    <edge source="fr" target="de">
+      <data key="d0">806</data>
+    </edge>
+    <edge source="fr" target="it">
+      <data key="d0">692</data>
+    </edge>
+    <edge source="fr" target="be">
+      <data key="d0">374</data>
+    </edge>
+    <edge source="fr" target="nl">
+      <data key="d0">289</data>
+    </edge>
+    <edge source="fr" target="es">
+      <data key="d0">195</data>
+    </edge>
+    <edge source="fr" target="ie">
+      <data key="d0">121</data>
+    </edge>
+    <edge source="fr" target="gr">
+      <data key="d0">121</data>
+    </edge>
+    <edge source="fr" target="dk">
+      <data key="d0">120</data>
+    </edge>
+    <edge source="fr" target="pt">
+      <data key="d0">90</data>
+    </edge>
+    <edge source="fr" target="se">
+      <data key="d0">18</data>
+    </edge>
+    <edge source="fr" target="ch">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="fr" target="fi">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="fr" target="no">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="fr" target="lu">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="fr" target="at">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="gb" target="de">
+      <data key="d0">727</data>
+    </edge>
+    <edge source="gb" target="it">
+      <data key="d0">416</data>
+    </edge>
+    <edge source="gb" target="nl">
+      <data key="d0">374</data>
+    </edge>
+    <edge source="gb" target="be">
+      <data key="d0">230</data>
+    </edge>
+    <edge source="gb" target="dk">
+      <data key="d0">212</data>
+    </edge>
+    <edge source="gb" target="ie">
+      <data key="d0">156</data>
+    </edge>
+    <edge source="gb" target="es">
+      <data key="d0">132</data>
+    </edge>
+    <edge source="gb" target="gr">
+      <data key="d0">110</data>
+    </edge>
+    <edge source="gb" target="pt">
+      <data key="d0">107</data>
+    </edge>
+    <edge source="gb" target="se">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="gb" target="fi">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="gb" target="ch">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="gb" target="lu">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="gb" target="no">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="de" target="it">
+      <data key="d0">443</data>
+    </edge>
+    <edge source="de" target="nl">
+      <data key="d0">268</data>
+    </edge>
+    <edge source="de" target="be">
+      <data key="d0">259</data>
+    </edge>
+    <edge source="de" target="dk">
+      <data key="d0">165</data>
+    </edge>
+    <edge source="de" target="es">
+      <data key="d0">125</data>
+    </edge>
+    <edge source="de" target="gr">
+      <data key="d0">108</data>
+    </edge>
+    <edge source="de" target="ie">
+      <data key="d0">103</data>
+    </edge>
+    <edge source="de" target="pt">
+      <data key="d0">80</data>
+    </edge>
+    <edge source="de" target="se">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="de" target="fi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="de" target="at">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="de" target="lu">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="de" target="no">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="de" target="ch">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="it" target="nl">
+      <data key="d0">176</data>
+    </edge>
+    <edge source="it" target="be">
+      <data key="d0">138</data>
+    </edge>
+    <edge source="it" target="es">
+      <data key="d0">99</data>
+    </edge>
+    <edge source="it" target="dk">
+      <data key="d0">84</data>
+    </edge>
+    <edge source="it" target="gr">
+      <data key="d0">74</data>
+    </edge>
+    <edge source="it" target="ie">
+      <data key="d0">68</data>
+    </edge>
+    <edge source="it" target="pt">
+      <data key="d0">47</data>
+    </edge>
+    <edge source="it" target="se">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="it" target="ch">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="it" target="no">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="it" target="at">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="it" target="fi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="nl" target="be">
+      <data key="d0">133</data>
+    </edge>
+    <edge source="nl" target="dk">
+      <data key="d0">97</data>
+    </edge>
+    <edge source="nl" target="ie">
+      <data key="d0">63</data>
+    </edge>
+    <edge source="nl" target="es">
+      <data key="d0">60</data>
+    </edge>
+    <edge source="nl" target="gr">
+      <data key="d0">58</data>
+    </edge>
+    <edge source="nl" target="pt">
+      <data key="d0">40</data>
+    </edge>
+    <edge source="nl" target="se">
+      <data key="d0">16</data>
+    </edge>
+    <edge source="nl" target="ch">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="nl" target="fi">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="nl" target="at">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="nl" target="no">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="be" target="dk">
+      <data key="d0">73</data>
+    </edge>
+    <edge source="be" target="ie">
+      <data key="d0">60</data>
+    </edge>
+    <edge source="be" target="es">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="be" target="pt">
+      <data key="d0">39</data>
+    </edge>
+    <edge source="be" target="gr">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="be" target="se">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="be" target="lu">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="be" target="ch">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="be" target="at">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="be" target="no">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dk" target="es">
+      <data key="d0">45</data>
+    </edge>
+    <edge source="dk" target="ie">
+      <data key="d0">44</data>
+    </edge>
+    <edge source="dk" target="gr">
+      <data key="d0">39</data>
+    </edge>
+    <edge source="dk" target="pt">
+      <data key="d0">26</data>
+    </edge>
+    <edge source="dk" target="se">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="dk" target="fi">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="dk" target="no">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="dk" target="ch">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="dk" target="at">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="es" target="pt">
+      <data key="d0">70</data>
+    </edge>
+    <edge source="es" target="ie">
+      <data key="d0">39</data>
+    </edge>
+    <edge source="es" target="gr">
+      <data key="d0">35</data>
+    </edge>
+    <edge source="es" target="se">
+      <data key="d0">11</data>
+    </edge>
+    <edge source="es" target="ch">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="es" target="no">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="es" target="fi">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ie" target="pt">
+      <data key="d0">27</data>
+    </edge>
+    <edge source="ie" target="gr">
+      <data key="d0">22</data>
+    </edge>
+    <edge source="ie" target="se">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="ie" target="ch">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ie" target="at">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="gr" target="pt">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="gr" target="se">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="gr" target="fi">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="gr" target="at">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="gr" target="ch">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="gr" target="no">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="pt" target="se">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="pt" target="no">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="se" target="fi">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="se" target="no">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="ch" target="at">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="fi" target="no">
+      <data key="d0">2</data>
+    </edge>
+  </graph>
+</graphml>
