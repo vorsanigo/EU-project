@@ -24,6 +24,13 @@ Finally, we compare fund distribution across different countries and topic, comp
 
 ## Installation
 
+## Installation
+
+1) Clone the repository:
+   `git clone https://github.com/vorsanigo/Tweet2Geo.git`
+2) Get the data from LINK and put them into the folder `Data`
+3) In the cloned folder, create a virtual environment through the command `virtualenv venv` and activate it through `source venv/bin/activate`
+4) Inside the virtual environment, install the requirements through `pip install -r requirements.txt`
 
 
 ## Execution
