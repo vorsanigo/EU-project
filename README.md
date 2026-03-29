@@ -40,13 +40,13 @@ The instructions to replicate the results follows
    - Inside folder `Data Analysis`:
       - Notebook `data_analysis.ipynb` 
       - Notebook `geographical_analysis.ipynb` for the number of projects per NUTS2 region and the cumulative density function of the number of projects per NUTS2 region
-2) **Embedding Space analysis**:
+2) **Embedding space analysis**:
    - Inside the folder `Embedding space`:
         - Inside the folder `Minimum Spanning Tree` run the different scripts to compute the MST length in the different cases
      - Inside the folder `Topics`:
        - Notebook `embeddings_analysis_description.ipynb` for analysis on the topics and generation of the image of the embedding space
        - Notebook `money_projects_topics_analysis.ipynb` for the comparison between academy and industry
-3) **Inequality and Integration**:
+3) **Inequality, integration, and gravity model**:
    - Inside the folder `Network Analysis`:
         - Notebook `network_analysis.ipynb` to compute inequality, integration, and to create the maps of the networks
         - Notebook gravity_model.ipynb for the gravity model
