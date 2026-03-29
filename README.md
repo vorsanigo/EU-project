@@ -14,7 +14,7 @@ Finally, we compare fund distribution across different countries and topic, comp
 │   └── Analysis                           <- Outputs folder 
 ├── Embedding Space                        <- Embedding space exploration
 │   ├── Minimum Spanning Tree              <- Scripts for Minimum Spanning Tree
-│   └── Topics                             <- Scripts for topic modeling and comparison academy and industry               
+│   └── Topics                             <- Scripts for topic modeling and comparison academy and industry
 ├── Network Analysis                       <- Scripts to create the networks and compute inequality, integration, and gravity model
 │   ├── Gravity model                      <- Gravity model scripts and results
 │   └── Analysis                           <- Outputs folder                                         
@@ -37,7 +37,17 @@ Finally, we compare fund distribution across different countries and topic, comp
 The instructions to replicate the results follows
 
 1) **Data analysis**
-   - Inside folder `Data analysis`:
-      - notebook `data_analysis.ipynb` 
-      - notebook `geographical_analysis.ipynb` for the number of projects per NUTS2 region and the cumulative density function of the number of projects per NUTS2 region
+   - Inside folder `Data Analysis`:
+      - Notebook `data_analysis.ipynb` 
+      - Notebook `geographical_analysis.ipynb` for the number of projects per NUTS2 region and the cumulative density function of the number of projects per NUTS2 region
+2) **Embedding Space analysis**:
+   - Inside the folder `Embedding space`:
+        - Inside the folder `Minimum Spanning Tree` run the different scripts to compute the MST length in the different cases
+     - Inside the folder `Topics`:
+       - Notebook `embeddings_analysis_description.ipynb` for analysis on the topics and generation of the image of the embedding space
+       - Notebook `money_projects_topics_analysis.ipynb` for the comparison between academy and industry
+3) **Inequality and Integration**:
+   - Inside the folder `Network Analysis`:
+        - Notebook `network_analysis.ipynb` to compute inequality, integration, and to create the maps of the networks
+        - Notebook gravity_model.ipynb for the gravity model
   
