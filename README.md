@@ -25,8 +25,6 @@ Finally, we compare fund distribution across different countries and topic, comp
 
 ## Installation
 
-## Installation
-
 1) Clone the repository:
    `git clone https://github.com/vorsanigo/Tweet2Geo.git`
 2) Get the data from LINK and put them into the folder `Data`
@@ -35,3 +33,11 @@ Finally, we compare fund distribution across different countries and topic, comp
 
 
 ## Execution
+
+The instructions to replicate the results follows
+
+1) **Data analysis**
+   - Inside folder `Data analysis`:
+      - notebook `data_analysis.ipynb` 
+      - notebook `geographical_analysis.ipynb` for the number of projects per NUTS2 region and the cumulative density function of the number of projects per NUTS2 region
+  
