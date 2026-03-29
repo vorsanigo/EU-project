@@ -12,7 +12,7 @@ Finally, we compare fund distribution across different countries and topic, comp
 │   └── Analysis                           <- Outputs folder 
 ├── Embedding Space                        <- Embedding space exploration
 │   ├── Minimum Spanning Tree              <- Scripts for Minimum Spanning Tree
-│  └── Topics                             <- Scripts for topic modeling and comparison academy and industry               
+│   └── Topics                             <- Scripts for topic modeling and comparison academy and industry               
 ├── Network Analysis                       <- Scripts to create the networks and compute inequality, integration, and gravity model
 │   ├── Gravity model                      <- Gravity model scripts and results
 │   └── Analysis                           <- Outputs folder                                         
