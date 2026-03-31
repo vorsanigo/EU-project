@@ -27,7 +27,7 @@ Finally, we compare fund distribution across different countries and topic, comp
 
 1) Clone the repository:
    `git clone https://github.com/vorsanigo/Tweet2Geo.git`
-2) Get the data from : copy the `Data` folder into the repository and the `embeddings_topics` folder in the `Embedding Space` folder
+2) Get the data from https://osf.io/9u2m8/files/osfstorage: copy the `Data` folder into the repository and the `embeddings_topics` folder in the `Embedding Space` folder
 3) In the cloned folder, create a virtual environment through the command `virtualenv venv` and activate it through `source venv/bin/activate`
 4) Inside the virtual environment, install the requirements through `pip install -r requirements.txt`
 
