@@ -8,7 +8,6 @@ Finally, we compare fund distribution across different countries and topic, comp
 ## Structure
 
 ```
-├── Data                                   <- Folder for data
 ├── Networks EFTA countries                <- Folder containing networks graphs, networks maps, and edgelists
 ├── Data Analysis                          <- Data exploration                                  
 │   └── Analysis                           <- Outputs folder 
