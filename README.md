@@ -28,8 +28,8 @@ Finally, we compare fund distribution across different countries and topic, comp
    `git clone https://github.com/vorsanigo/Tweet2Geo.git`
 2) Get the data from https://osf.io/9u2m8/files/osfstorage: copy the `Data` folder into the cloned folder and the `embeddings_topics` folder in the `Embedding Space` folder
 3) In the cloned folder, recreate the environment running the following commands:
-   micromamba create -f venv_eu.yml
-   micromamba activate venv_eu
+   - `micromamba create -f venv_eu.yml`
+   - `micromamba activate venv_eu`
 
 ## Execution
 
