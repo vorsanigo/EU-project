@@ -19,7 +19,7 @@ Finally, we compare fund distribution across different countries and topic, comp
 │   └── Analysis                           <- Outputs folder                                         
 ├── Geolocation                            <- Scripts for location identification
 ├── README.md
-└── requirements.txt
+└── venv_eu.yml
 ```
 
 ## Installation
